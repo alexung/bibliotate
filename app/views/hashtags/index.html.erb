@@ -1,0 +1,6 @@
+<h1>Checkout what's trending!</h1>
+<ul>
+<% @hashtags.each do |tag|%>
+	<li><%= link_to "#{tag.tag}", hashtag_path(tag) %></li>	
+<% end %>
+</ul>

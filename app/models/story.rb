@@ -1,10 +1,15 @@
 class Story < ActiveRecord::Base
   has_many :paragraphs
   has_many :sentences, through: :paragraphs
-  has_many :comments, through: :sentences
+  has_many :comments,  -> { order(created_at: :desc) }, through: :sentences
   validates :title, presence: true
   validates :course_id, presence: true
   belongs_to :course
+
+  def most_commented
+    # This ruby should be replaced by activerecord query
+    self.sentences.sort_by {|sentence| sentence.comment_count}.reverse[0..4]
+  end
 
   def self.make(title, author, body, course_id)
   # Sanitize the body

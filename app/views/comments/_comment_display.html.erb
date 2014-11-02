@@ -3,8 +3,7 @@
   <button data-comment="remove">X</button>
   <ul data-comment="display">
     <% @comments.each do |comment| %>
-      <li><img class="student_image" src="<%=comment.user.photo%>"><%= comment.user.name %> says:
-      <li><%= render partial: 'hashtag_rendering', locals: {body: comment.body} %></li>
+      <%= render partial: '/comments/render_comment', locals: {comment: comment} %>
     <% end %>
   </ul>
   <%= render partial: 'comment_form',  locals: {id: @sentence_id} %>

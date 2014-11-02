@@ -3,6 +3,15 @@ class Sentence < ActiveRecord::Base
   belongs_to :paragraph
 
   def commented?
-    self.comments.size > 0
+    comment_count > 0
   end
+
+  def comment_count 
+  	self.comments.size
+  end
+
+  def story_sentence
+    self.id - self.paragraph.story.sentences.first.id + 1
+  end
+
 end

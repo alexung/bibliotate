@@ -5,6 +5,7 @@ Rails.application.routes.draw do
   get '/auth', :to => 'users#auth'
   get '/callback', :to => 'users#callback'
   get '/type', :to => 'users#type'
+  get '/stories/:id/commentsfeed/', :to => 'stories#commentsfeed'
   post "/logout" => "sessions#destroy"
   resources :users
   resources :enrollments

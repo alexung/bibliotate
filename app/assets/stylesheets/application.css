@@ -1,7 +1,4 @@
-/*
- *= require_tree .
- *= require_self
- */
+
 
 @import url(http://weloveiconfonts.com/api/?family=entypo);
 
@@ -16,6 +13,28 @@ body {
 
 .container-fluid {
   padding: 0 10px 10px;
+}
+
+main {
+  font-family: 'Source Serif Pro', serif;
+  color: #5D5050;
+  width: 70%;
+  display: block;
+  margin: auto;
+  margin-top: 45px;
+  margin-bottom: 50px;
+}
+
+.outer {
+  border: 4px solid rgba(223,165,149,0.08);
+  border-radius: 4px;
+}
+
+.inner {
+  border: 3px solid rgba(175,192,190,0.1);
+  border-radius: 2px;
+  margin: 3px;
+  overflow: auto;
 }
 
 header {
@@ -132,54 +151,65 @@ header {
   margin: 13px 10px 0 0;
 }
 
-/*.border {
-  border: 1px solid #ECF0F1;
-  margin: 3px;
-  overflow: auto;
-}
-*/
 .commented {
   border-bottom: 1px red dashed;
 }
 
 /*.outer {
-  margin-top: 12px;
-}*/
-
-.outer {
   border: 4px solid rgba(223,165,149,0.08);
   border-radius: 4px;
-/*  margin: 10px;*/
 }
 
 .inner {
   border: 3px solid rgba(175,192,190,0.1);
   border-radius: 2px;
   margin: 3px;
+}*/
+
+
+#story_author {
+  font-family: 'Source Serif Pro', serif;
+  color: #5D5050;
+  text-align: center;
+  margin: 0;
+  width: 30%;
+  height: 5%;
+  margin: 1%;
+  margin-left: 35%;
+  height: 20px;
+  font-size: 1em
 }
 
 #story_title {
-  font-family: 'Droid Serif', serif;
-  color: #7A6A53;
-  font-size: 3em;
+  font-family: 'Source Serif Pro', serif;
+  font-weight: 700;
+  font-size: 3.5em;
+  color: #5D5050;
   font-style: georgia, serif;
   text-align: center;
-  margin: 50px 0 45px;
+  margin: 55px 0 20px;
 }
 
-main {
-  width: 50%;
-  display: block;
-  margin: auto;
-  margin-top: 45px;
-  margin-bottom: 50px;
+#story_info {
+  text-align: center;
+  font-size: 1.3em;
+  font-family: 'Droid Serif', serif;
+  color: #769995;
+  margin: 0 0 35px;
+}
+
+#author {
+  color: #cc6b58;
+}
+
+.paragraph {
+  margin: 0 0 30px;
 }
 
 .sentence {
-  color: #7A6A53;
   line-height: 2em;
   text-decoration: none;
-  font-size: 1.25em;
+  font-size: 1.4em;
   font-style: georgia, serif;
   cursor: crosshair;
 }
@@ -188,14 +218,9 @@ main {
   background-color: yellow;
 }
 
-
 .popup {
-  /*position: absolute;*/
-  /*display: none;*/
   border: 1px solid rgba(0,0,0,0.15);
-  /*width: 50%;*/
   background-color: white;
-  /*left: 25%;*/
   overflow-y: scroll;
   position: fixed;
   top: 7%;
@@ -244,10 +269,6 @@ main {
   position: absolute;
 }
 
-.row {
-
-}
-
 .card {
   width: 29%;
   height: 400px;
@@ -289,34 +310,11 @@ main {
   max-height: 250px;
 }
 
-.new_story{
-
-
-}
-
 .story_create h2 {
   font-size: 1em;
   font-color:red;
 }
-#story_author{
-  text-align: center;
-  margin: 0;
-  width: 30%;
-  height: 5%;
-  margin: 1%;
-  margin-left: 35%;
-  height: 20px;
-  font-size: 1em
-}
 
-#story_title{
-  text-align: center;
-  width: 30%;
-  height: 20px;
-  margin: 1%;
-  margin-left: 35%;
-  font-size: 1em
-}
 .new_story_body{
   width: 100%;
   height: 5%;
@@ -334,7 +332,7 @@ main {
 
 .newstorybutton {
   margin-left: 35%;
-width: 30%; /*basic styles*/ width: 250px; height: 50px; color: white; background-color: #d46d45; text-align: center; font-size: 30px; line-height: 50px; /*gradient styles*/ background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#d46d45), to(#b1432a)); background: -moz-linear-gradient(19% 75% 90deg,#b1432a, #d46d45); /*border styles*/ border-top: solid 2px #e28d79; border-bottom: solid 1px #51281f; border-right: solid 1px #d46d45; border-left: solid 1px #d46d45; -moz-border-radius: 30px; -webkit-border-radius: 30px; border-radius: 30px; } .newstorybutton p { font-size: 25px; line-height: 50px; font-family: ‘Trebuchet MS’, sans-serif; } a { text-decoration: none; color: fff; } .newstorybutton:hover { background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#b1432a), to(#d46d45)); background: -moz-linear-gradient(19% 75% 90deg,#d46d45, #b1432a); border-top: solid 2px #b1432a; border-bottom: solid 1px #e28d79; }
+  width: 30%; /*basic styles*/ width: 250px; height: 50px; color: white; background-color: #d46d45; text-align: center; font-size: 30px; line-height: 50px; /*gradient styles*/ background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#d46d45), to(#b1432a)); background: -moz-linear-gradient(19% 75% 90deg,#b1432a, #d46d45); /*border styles*/ border-top: solid 2px #e28d79; border-bottom: solid 1px #51281f; border-right: solid 1px #d46d45; border-left: solid 1px #d46d45; -moz-border-radius: 30px; -webkit-border-radius: 30px; border-radius: 30px; } .newstorybutton p { font-size: 25px; line-height: 50px; font-family: ‘Trebuchet MS’, sans-serif; } a { text-decoration: none; color: fff; } .newstorybutton:hover { background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#b1432a), to(#d46d45)); background: -moz-linear-gradient(19% 75% 90deg,#d46d45, #b1432a); border-top: solid 2px #b1432a; border-bottom: solid 1px #e28d79; }
 
 
 
@@ -342,5 +340,4 @@ width: 30%; /*basic styles*/ width: 250px; height: 50px; color: white; backgroun
   font-size: 45em;
   text-align: center;
   color: #5D5050;
-
 }

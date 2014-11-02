@@ -30,7 +30,7 @@ function listenForComment() {
   $(".comment_form").submit(function(e){
     e.preventDefault()
     submitComment($(this).serialize(), function(data){
-      $('.popup').html(data)
+      $('.popup').replaceWith(data)
     })
   })
 }

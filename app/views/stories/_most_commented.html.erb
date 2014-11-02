@@ -1,0 +1,8 @@
+<div data-card='mostcommented' data-story="<%=@story.id%>" class="card">
+	<h1>Most Commented Sentences:</h1>
+	<ul>
+	<% @story.most_commented.each do |sentence| %>
+		<li><%= sentence.story_sentence %>. <%= sentence.body[0..10] %>... has <%= sentence.comment_count %> comments.</li>
+	<% end %>
+	</ul>
+</div>
