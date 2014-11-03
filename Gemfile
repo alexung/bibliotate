@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'capybara'
 gem 'rails_12factor'
 gem 'unicorn'
 gem 'oauth2'

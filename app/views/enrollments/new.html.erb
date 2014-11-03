@@ -1,12 +1,12 @@
 <div id="enrollment-form-container">
 
 <h1>Enroll in a course</h1>
-  <%= form_for :enrollment, url: enrollments_path, method: :post do |f| %>
+  <%= form_for :enrollment, url: enrollments_path, data: {form: "enrollment"}, method: :post do |f| %>
 
     <div>
       <% @courses.each do |course| %>
         <%= f.label :course, "#{course.name}" %>
-        <%= f.radio_button :course, "#{course.name}" %><br>
+        <%= f.radio_button :course, "#{course.name}", data: {field: "course_name"} %><br>
       <% end %>
     </div>
 
