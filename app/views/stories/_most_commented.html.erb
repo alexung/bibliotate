@@ -1,8 +1,18 @@
-<div data-card='mostcommented' data-story="<%=@story.id%>" class="card">
+<div data-card='mostcommented' data-story="<%=@story.id%>" class="card comment_card" id="most_commented">
 	<h1>Most Commented Sentences:</h1>
 	<ul>
 	<% @story.most_commented.each do |sentence| %>
-		<li><%= sentence.story_sentence %>. <%= sentence.body[0..10] %>... has <%= sentence.comment_count %> comments.</li>
+		<li>
+			<a 
+				data-story="<%= sentence.paragraph.story.id %>"
+			  	data-sentence-link="<%= sentence.story_sentence%>" 
+			  	href="/stories/<%= sentence.paragraph.story.id %>/#<%=sentence.story_sentence%>">
+				Sentence: 
+				<%= sentence.story_sentence %>
+			</a>.
+			<%= sentence.body[0..20] %>... has 
+			<%= sentence.comment_count %> comments.
+		</li>
 	<% end %>
 	</ul>
 </div>

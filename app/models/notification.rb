@@ -11,4 +11,24 @@ class Notification < ActiveRecord::Base
       errors.add(:noteable_type, "is not comment or enrollment")
     end
   end
+
+  def applies_to_user?
+    if self.noteable_type == "comment"
+      User.find(Comment.find(self.noteable_id).user_id).name
+    else
+      User.find(Enrollment.find(self.noteable_id).user_id).name
+    end
+  end
+
+  def is_about?
+    if self.noteable_type == "comment"
+      Comment.find(self.noteable_id).sentence.paragraph.story
+    else
+      Course.find(Enrollment.find(self.noteable_id).course_id)
+    end
+  end
+
+
+
+
 end

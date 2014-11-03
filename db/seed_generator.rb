@@ -589,7 +589,7 @@ notifications = []
 
 # hand written example records
 usertest1 = {
-      :name => "pablo",
+      :name => "Pablo",
       :email => "pablo@rox.always",
       :photo => "https://scontent-a-sjc.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/10672243_10203261369791947_986035253996343461_n.jpg?oh=8ff2c42f0671e7eeb1a0a7abcf861120&oe=54AC85C5",
       :role => "teacher",
@@ -779,7 +779,80 @@ end
     :body => sentence,
   })
 end
+#comments for the 2nd story
+@comment_sentences.each do |sentence|
+    comments.push({
+    :sentence_id => [*160..342].sample,
+    :user_id => [*6..25].sample,
+    :body => sentence,
+  })
+end
+#comments for the 3rd story
+@comment_sentences.each do |sentence|
+    comments.push({
+    :sentence_id => [*345..382].sample,
+    :user_id => [*6..25].sample,
+    :body => sentence,
+  })
+end
+#comments for the 4th story
+@comment_sentences.each do |sentence|
+    comments.push({
+    :sentence_id => [*385..509].sample,
+    :user_id => [*6..25].sample,
+    :body => sentence,
+  })
+end
+#comments for the 5th story
+@comment_sentences.each do |sentence|
+    comments.push({
+    :sentence_id => [*515..605].sample,
+    :user_id => [*6..25].sample,
+    :body => sentence,
+  })
+end
+#comments for the next story
+@comment_sentences.each do |sentence|
+    comments.push({
+    :sentence_id => [*615..770].sample,
+    :user_id => [*6..25].sample,
+    :body => sentence,
+  })
+end
+#comments for the next story
+@comment_sentences.each do |sentence|
+    comments.push({
+    :sentence_id => [*775..890].sample,
+    :user_id => [*6..25].sample,
+    :body => sentence,
+  })
+end
+#next
+@comment_sentences.each do |sentence|
+    comments.push({
+    :sentence_id => [*895..1010].sample,
+    :user_id => [*6..25].sample,
+    :body => sentence,
+  })
+end
 
+#comments for the next story
+@comment_sentences.each do |sentence|
+    comments.push({
+    :sentence_id => [*1020..1115].sample,
+    :user_id => [*6..25].sample,
+    :body => sentence,
+  })
+end
+
+#comments for the next story
+@comment_sentences.each do |sentence|
+    comments.push({
+    :sentence_id => [*1120..1210].sample,
+    :user_id => [*6..25].sample,
+    :body => sentence,
+  })
+end
 
 1.upto(20).each do |id|
   notifications.push({

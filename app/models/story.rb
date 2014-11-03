@@ -6,10 +6,29 @@ class Story < ActiveRecord::Base
   validates :course_id, presence: true
   belongs_to :course
 
-  def most_commented
+  def newest_comments
+    self.comments.first(5)
+  end
+
     # This ruby should be replaced by activerecord query
+  def most_commented
     self.sentences.sort_by {|sentence| sentence.comment_count}.reverse[0..4]
   end
+
+    # This ruby should be replaced by activerecord query
+  def active_users
+    hash = {}
+    self.comments.each do |comment|
+      if hash[comment.user]
+        hash[comment.user] += 1
+      else
+        hash[comment.user] = 1
+      end
+    end
+    hash.sort_by {|k,v| v}.reverse[0..4]
+  end
+
+
 
   def self.make(title, author, body, course_id)
   # Sanitize the body

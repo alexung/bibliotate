@@ -1,3 +1,4 @@
+
 <h1 id="story_title"><%= @story.title %></h1>
 <section id="story_info">
 	<span id="author"><%= @story.author %></span>
@@ -12,3 +13,5 @@
 <%= render partial: 'comments_feed', locals: {story: @story} %>
 
 <%= render partial: 'most_commented', locals: {story: @story} %>
+
+<%= render partial: 'active_users', locals: {story: @story} %>

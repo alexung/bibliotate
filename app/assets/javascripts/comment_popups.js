@@ -1,11 +1,4 @@
 $(document).on('page:change', function() {
-  $(".sentence").hover(function(){
-    var sentence_number = $(this).data("id") - $(".sentence:first").data("id") + 1
-    $(this).after('<sup class="hover-text">' + sentence_number + '</sup>')
-  }, function(){
-    $('.hover-text').remove();
-  })
-
   $(".sentence").click(function(event){
     $('.popup').remove()
     var sentence = $(this)
@@ -15,6 +8,8 @@ $(document).on('page:change', function() {
       popupClose()
     })
   })
+
+
 })
 
 // Get comment functions
@@ -29,8 +24,11 @@ function fetchPopup(id, callback) {
 function listenForComment() {
   $(".comment_form").submit(function(e){
     e.preventDefault()
+    var sentence_id = $(".comment_form [name=sentence_id]").val()
+    $('[data-id=' + sentence_id + ']').addClass('commented')
     submitComment($(this).serialize(), function(data){
       $('.popup').replaceWith(data)
+      listenForComment()
     })
   })
 }

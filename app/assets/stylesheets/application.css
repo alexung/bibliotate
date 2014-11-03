@@ -1,11 +1,16 @@
-
+*= require_self
+*= require normalize-rails
+*= require_tree .
 
 @import url(http://weloveiconfonts.com/api/?family=entypo);
 
 [class*="entypo-"]:before {
   font-family: 'entypo', sans-serif;
 }
-  
+
+
+/* PAGE BODY --------------------------------- */
+
 body {
   background-image: url('lightpaperfibers.png');
   background-repeat: repeat;
@@ -15,27 +20,8 @@ body {
   padding: 0 10px 10px;
 }
 
-main {
-  font-family: 'Source Serif Pro', serif;
-  color: #5D5050;
-  width: 70%;
-  display: block;
-  margin: auto;
-  margin-top: 45px;
-  margin-bottom: 50px;
-}
 
-.outer {
-  border: 4px solid rgba(223,165,149,0.08);
-  border-radius: 4px;
-}
-
-.inner {
-  border: 3px solid rgba(175,192,190,0.1);
-  border-radius: 2px;
-  margin: 3px;
-  overflow: auto;
-}
+/* NAVIGATION PARTIAL --------------------------------- */
 
 header {
   height: 50px;
@@ -44,7 +30,7 @@ header {
 
 #top {
   width: 100%;
-  
+
 }
 
 #logo {
@@ -112,13 +98,13 @@ header {
 
 #hello_user {
   color: #AFC0BE;
-  font-size: .8em;
-  font-family: georgia, serif;  
+  font-size: 1em;
+  /*font-family: georgia, serif;*/
 }
 
 #nav-name {
   float: right;
-  margin: 13px 10px 0 0;
+  margin: 16px 10px 0 0;
 }
 
 #nav-name a {
@@ -126,36 +112,47 @@ header {
 }
 
 #nav-teacher {
+  margin: 16px 10px 0 0;
   color: #AFC0BE;
   float: right;
   color: white;
 }
 
 #nav-student {
+  margin: 16px 10px 0 0;
   color: #AFC0BE;
   float: right;
   color: white;
 }
 
-#nav-add-story {
+#nav-add-story, #nav-view-hashtags{
+  margin: 16px 10px 0 0;
   color: #AFC0BE;
   float: right;
   color: white;
 }
 
-#nav-teacher a, #nav-student a, #nav-add-story a {
+#nav-teacher a, #nav-student a,
+#nav-add-story a, #nav-view-hashtags a {
   color: #AFC0BE;
 }
+
 
 .nav_buttons {
   margin: 13px 10px 0 0;
 }
 
-.commented {
-  border-bottom: 1px red dashed;
+main {
+  font-family: 'Source Serif Pro', serif;
+  color: #5D5050;
+  width: 80%;
+  display: block;
+  margin: auto;
+  margin-top: 45px;
+  margin-bottom: 50px;
 }
 
-/*.outer {
+.outer {
   border: 4px solid rgba(223,165,149,0.08);
   border-radius: 4px;
 }
@@ -164,8 +161,17 @@ header {
   border: 3px solid rgba(175,192,190,0.1);
   border-radius: 2px;
   margin: 3px;
-}*/
+  overflow: auto;
+}
 
+
+
+.commented {
+  border-bottom: 1px red dashed;
+}
+
+
+/* STORY PAGE --------------------------------- */
 
 #story_author {
   font-family: 'Source Serif Pro', serif;
@@ -187,7 +193,11 @@ header {
   color: #5D5050;
   font-style: georgia, serif;
   text-align: center;
-  margin: 55px 0 20px;
+  margin: 55px 27% 20px;
+}
+
+#author {
+  color: #cc6b58;
 }
 
 #story_info {
@@ -195,15 +205,11 @@ header {
   font-size: 1.3em;
   font-family: 'Droid Serif', serif;
   color: #769995;
-  margin: 0 0 35px;
-}
-
-#author {
-  color: #cc6b58;
+  margin: 0 0 40px;
 }
 
 .paragraph {
-  margin: 0 0 30px;
+  margin: 0 8% 30px;
 }
 
 .sentence {
@@ -269,34 +275,10 @@ header {
   position: absolute;
 }
 
-.card {
-  width: 29%;
-  height: 400px;
-  background-color: white;
-  border-radius: 5px;
-  box-shadow: 10px 10px 5px #888888;
-  padding: 1%;
-  margin: 1%;
-  margin-bottom: 10%;
-  overflow-y: scroll;
-  float: left;
-}
-
 .profile {
   height: 600px;
   margin-left: 30%;
   width: 50%;
-}
-
-.card ul {
-  list-style: none;
-}
-
-.card h1 {
-  text-align: center;
-}
-.card h3 {
-  text-align: center;
 }
 
 .student_image {
@@ -304,10 +286,22 @@ header {
   max-height: 50px;
 }
 
-.profile_pic {
-  margin-left: 20%;
-  max-width: 250px;
-  max-height: 250px;
+.storycreate h2 {
+  font-size: 2em;
+   font-family: georgia, serif;
+   text-align: center;
+  margin-left: %35;
+}
+#story_author{
+  text-align: center;
+  margin: 0;
+  width: 30%;
+  height: 5%;
+  margin: 1%;
+  margin-left: 35%;
+  height: 20px;
+   font-family: georgia, serif;
+  font-size: 1em
 }
 
 .story_create h2 {
@@ -319,6 +313,7 @@ header {
   width: 100%;
   height: 5%;
   margin: 1%;
+   font-family: georgia, serif;
   font-size: 1em
 }
 
@@ -327,17 +322,190 @@ header {
   width: 30%;
   height: 5%;
   margin: 1%;
+   font-family: georgia, serif;
   margin-left: 35%;
 }
 
 .newstorybutton {
+   font-family: georgia, serif;
   margin-left: 35%;
   width: 30%; /*basic styles*/ width: 250px; height: 50px; color: white; background-color: #d46d45; text-align: center; font-size: 30px; line-height: 50px; /*gradient styles*/ background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#d46d45), to(#b1432a)); background: -moz-linear-gradient(19% 75% 90deg,#b1432a, #d46d45); /*border styles*/ border-top: solid 2px #e28d79; border-bottom: solid 1px #51281f; border-right: solid 1px #d46d45; border-left: solid 1px #d46d45; -moz-border-radius: 30px; -webkit-border-radius: 30px; border-radius: 30px; } .newstorybutton p { font-size: 25px; line-height: 50px; font-family: ‘Trebuchet MS’, sans-serif; } a { text-decoration: none; color: fff; } .newstorybutton:hover { background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#b1432a), to(#d46d45)); background: -moz-linear-gradient(19% 75% 90deg,#d46d45, #b1432a); border-top: solid 2px #b1432a; border-bottom: solid 1px #e28d79; }
 
 
 
+/* SPLASH PAGE --------------------------------- */
+
+#splash_section {
+  width: 100%;
+  text-align: center;
+
+}
+
 #splash {
   font-size: 45em;
-  text-align: center;
   color: #5D5050;
 }
+
+.splashimage{
+  height: 900px;
+  width: 100%;
+  margin: 0px;
+}
+
+/* USER INDEX PAGE --------------------------------- */
+
+#my_enrollments {
+  text-align: center;
+}
+
+
+/* CARDS PARTIALS --------------------------------- */
+
+.course_icon {
+  margin: 0 5px 0 0;
+}
+
+.card {
+  width: 32.40%;
+  height: 400px;
+  background-color: white;
+  border: 2px solid rgba(175,192,190,0.1);
+  border-radius: 4px;
+  padding: 1%;
+  margin: 40px .10% ;
+  margin-bottom: 10%;
+  box-shadow: 0px 2px 67px #555;
+  float: left;
+  overflow-y: scroll;
+}
+
+.card ul {
+  list-style: none;
+}
+
+.card h1 {
+  text-align: center;
+}
+.card h3 {
+  text-align: center;
+  font-size: 2em;
+}
+
+.story_links {
+  color: #EC7962;
+  font-size: 1.25em;
+  margin: 0 0 0 25px;
+}
+.story_links a {
+  color: #EC7962;
+  font-size: 1em;
+  float: left;
+  margin: 0 0 0 15px;
+}
+
+.comments {
+  float: right;
+  margin: 0 20px 0 0;
+  color: #AFC0BE;
+}
+
+
+
+/* PROFILE PAGE --------------------------------- */
+
+#profile_header {
+  text-align: center;
+}
+
+.card_profile {
+  width: 100%;
+  background-color: white;
+  border: 2px solid rgba(175,192,190,0.1);
+  border-radius: 4px;
+  padding: 1%;
+  margin: 40px 0 ;
+  margin-bottom: 10%;
+  box-shadow: 0px 2px 67px #999;
+  float: left;
+  overflow: auto;
+}
+
+.profile_pic {
+  max-width: 250px;
+  max-height: 250px;
+  display: block;
+  margin: auto;
+}
+
+#profile_username {
+  text-align: center;
+}
+/*pertains to notification box*/
+.dropdown {
+  float: right;
+  margin: 10px 10px 0 0;
+  list-style-type: none;
+  color:#AFC0BE;
+}
+.dropdown-menu{
+  left: -100%;
+}
+.dropdown ul li{
+  float: left;
+  margin-right:600px;
+  list-style-type: none;
+}
+
+#user_information {
+  text-align: center;
+  margin: 10px 0;
+  overflow: auto;
+}
+
+#user_information li {
+  text-align: center;
+  list-style-type: none;
+  font-size: 1.5em;
+}
+
+#newnotify{
+  color:#EC7961;
+  font-size: 1em;
+}
+.removestudent{
+  float:right;
+}
+.hover-text {
+  color: black;
+  margin: 2px 0 0 0px;
+  padding: 0 0 0 0;
+  position: relative;
+}
+
+.card ul li {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+ul {
+  list-style: none;
+}
+
+.comment_display {
+  max-height: 300px;
+  overflow-y:scroll;
+}
+
+/*#videoplayer{
+  width: 100%
+}*/
+#headline {
+  text-align: center;
+  margin:0;
+  padding:0;
+}
+
+
+
+
+

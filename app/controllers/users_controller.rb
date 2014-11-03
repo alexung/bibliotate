@@ -1,10 +1,11 @@
 class UsersController < ApplicationController
 
   def index
-
+    @notifications = Notification.where(user_id:current_user)
   end
 
   def show
+    @notifications = Notification.where(user_id:current_user)
     @user = User.find(params[:id])
   end
 

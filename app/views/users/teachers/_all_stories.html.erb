@@ -1,4 +1,7 @@
-<% stories.each do |story| %>
-<%= link_to "#{story.title}", story_path(story) %>
-<%= button_to "Delete", story_path(story), :method => :delete, data: {confirm: 'nbNOTICE: All comments associated with this story will be lost. Are you sure? '}%>
-<% end %>
+<div class="card">
+	<h1>Uploaded Stories</h1>
+	<% stories.each do |story| %>
+	<%= link_to "#{story.title}", story_path(story) %> ---- <%= Course.find(story.course_id).name  %>
+	<%= button_to "Delete", story_path(story), :method => :delete, data: {confirm: 'NOTICE: All comments associated with this story will be lost. Are you sure? '}%>
+	<% end %>
+</div>

@@ -1,0 +1,23 @@
+<ul>
+  <li class="dropdown open">
+    <div class="notificationenvelope" data-note="yes"><i class="fa fa-envelope fa-2x"></i><span class="caret"></span>
+      <% if notifications.length >= 1%>
+        <% if notifications.first.status == true%>
+          <i class="fa fa-plus" id="newnotify"></i>
+        <% end %>
+    </div>
+        <ul class="dropdown-menu" style='display:none' role="menu">
+          <% notifications.each do |notification| %>
+          <% if notification.noteable_type == "comment" %>
+          <li><%= link_to "#{notification.applies_to_user?} Commented on #{notification.is_about?.title}", story_path(notification.is_about?.id) %></li>
+          <% else %>
+          <li><%= link_to "#{notification.applies_to_user?} Enrolled in #{notification.is_about?.name}", user_path(current_user) %></li></a>
+          <% end %>
+          <li class="divider"></li>
+          <% end %>
+        </ul>
+      <% else %>
+    </div>
+      <% end %>
+  </li>
+</ul>

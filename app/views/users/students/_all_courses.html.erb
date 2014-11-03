@@ -1,10 +1,13 @@
 
 <% current_user.enrolled_courses.each do |course| %>
 <div class="card">
-<h3><%= course.name %></h3>
+<h3><span id="book_icon" class="entypo-doc-text course_icon"></span><%= course.name %></h3>
 <% course.stories.each do |story| %>
-
-<%= link_to "#{story.title}", story %>
+	<span class="story_links">
+		<span id="book_icon" class="entypo-book-open"></span>
+		<%= link_to "#{story.title[0..26]}", story %>
+		<span class="comments"><i class="fa fa-comment"></i></i><%= story.comments.size %></span>
+	</span>
 <% end %>
 </div>
 <% end %>

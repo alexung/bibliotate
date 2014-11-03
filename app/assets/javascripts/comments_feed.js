@@ -1,20 +1,30 @@
 $(document).on('page:change', function() {
-	listenForComments()
+	if( $('[data-card=commentsfeed]').length > 0) {
+		ajaxInteveral('commentsfeed')
+	}
+	if( $('[data-card=mostcommented]').length > 0) {
+		ajaxInteveral('mostcommented')
+	}
+	if( $('[data-card=activeusers]').length > 0) {
+		ajaxInteveral('activeusers')
+	}
 })
 
-
-function listenForComments() {
-	setInterval(function() {
-		var storyId = $("[data-card='commentsfeed']").data('story')
-		fetchComments(storyId, function(template) {
-			$("[data-card='commentsfeed']").replaceWith(template)
+// Data card should be the URL and value of the data-card attribute
+function ajaxInteveral(dataCard) {
+	var storyId = $("[data-card='" + dataCard + "']").data('story')
+	setInterval(function(){
+		fetchPartial(dataCard, storyId, function(template){
+			$("[data-card='" + dataCard + "']").replaceWith(template)
+			openComment()
 		})
 	}, 10000)
 }
 
-function fetchComments(id, callback) {
-  $.ajax({
-    url: '/stories/' + id + '/commentsfeed',
-  })
-  .success(callback)
+
+function fetchPartial(url, id, callback) {
+	$.ajax({
+	    url: '/stories/' + id + '/' + url,
+	  })
+	  .success(callback)
 }

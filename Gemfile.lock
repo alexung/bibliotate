@@ -75,7 +75,7 @@ GEM
     json (1.8.1)
     jwt (1.0.0)
     kgio (2.9.2)
-    mail (2.6.1)
+    mail (2.6.3)
       mime-types (>= 1.16, < 3)
     method_source (0.8.2)
     mime-types (2.4.3)
@@ -86,6 +86,7 @@ GEM
     multipart-post (2.0.0)
     nokogiri (1.6.3.1)
       mini_portile (= 0.6.0)
+    normalize-rails (3.0.1)
     oauth2 (1.0.0)
       faraday (>= 0.8, < 0.10)
       jwt (~> 1.0)
@@ -193,6 +194,7 @@ DEPENDENCIES
   faker (~> 1.4.3)
   jbuilder (~> 2.0)
   jquery-rails
+  normalize-rails
   oauth2
   pg
   pry

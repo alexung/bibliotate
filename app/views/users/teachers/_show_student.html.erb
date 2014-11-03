@@ -1,8 +1,12 @@
-<div class="card profile">
-  <h1><%= @user.name %></h1>
-  <img class="profile_pic" src="<%= @user.photo  %>">
-  <ul>
+<h1 id="profile_header">My Profile</h1>
+<div class="card_profile">
+  <h1 id="profile_username"><%= @user.name %></h1>
+  <img class="profile_pic img-circle" src="<%= @user.photo  %>">
+  <ul id="user_information">
     <li><%= @user.email  %></li>
     <li><%= @user.role  %></li>
   </ul>
+<% if current_user.id == @user.id%>
+  <%= link_to 'Delete account', user_path(current_user), method: 'delete', data: {confirm: 'NOTICE: All data associated with this user will be lost. Are you sure? '} %>
+<% end %>
 </div>

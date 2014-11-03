@@ -1,8 +1,7 @@
 <% current_user.taught_courses.each do |course| %>
   <div class="card">
     <h3><%= course.name %></h3>
+    <%= render partial: '/users/teachers/all_students', locals: {students: course.users, course_id: course.id}  %>
     <%= link_to "Delete this course", course_path(id: course.id), method: :delete, data: {confirm: 'NOTICE: This course will be deleted. Are you sure? '} %>
-    <%= render partial: '/users/teachers/all_students', locals: {students: course.users}  %>
-    <%= render partial: '/users/teachers/all_stories',  locals: {stories: course.stories} %>
   </div>
 <% end %>

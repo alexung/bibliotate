@@ -1,161 +1,161 @@
 # DON'T EDIT THIS, EDIT seed_generator.rb
 ---
 :users:
-- :name: pablo
+- :name: Pablo
   :email: pablo@rox.always
   :photo: https://scontent-a-sjc.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/10672243_10203261369791947_986035253996343461_n.jpg?oh=8ff2c42f0671e7eeb1a0a7abcf861120&oe=54AC85C5
   :role: teacher
-- :name: Stacey Jones
-  :email: minnie@howell.org
-  :photo: http://randomuser.me/g/portraits/men/43.jpg
-  :role: teacher
-- :name: Pauline Marvin
-  :email: palma@lueilwitzblanda.biz
-  :photo: http://randomuser.me/g/portraits/men/45.jpg
-  :role: teacher
-- :name: Sven Miller
-  :email: preston_von@berge.net
-  :photo: http://randomuser.me/g/portraits/men/51.jpg
-  :role: teacher
-- :name: Mrs. Nelson King
-  :email: marianne.jenkins@hamill.org
-  :photo: http://randomuser.me/g/portraits/women/36.jpg
-  :role: teacher
-- :name: Dwight Kohler
-  :email: queenie.sipes@damorecollins.biz
-  :photo: http://randomuser.me/g/portraits/men/55.jpg
-  :role: teacher
-- :name: Geovanni Welch
-  :email: phyllis@schroeder.com
-  :photo: http://randomuser.me/g/portraits/women/9.jpg
-  :role: student
-- :name: Katarina Casper
-  :email: vella@hayes.com
-  :photo: http://randomuser.me/g/portraits/men/4.jpg
-  :role: student
-- :name: Madalyn Champlin
-  :email: bernice@von.info
-  :photo: http://randomuser.me/g/portraits/women/32.jpg
-  :role: student
-- :name: Zora Abbott
-  :email: kenton@collier.net
+- :name: Mrs. Regan Herzog
+  :email: lester@hyatt.net
   :photo: http://randomuser.me/g/portraits/men/30.jpg
-  :role: student
-- :name: Mr. Antone Dicki
-  :email: trea@prohaska.name
-  :photo: http://randomuser.me/g/portraits/men/31.jpg
-  :role: student
-- :name: Frederique Tremblay
-  :email: ottis.schultz@mitchellschinner.org
-  :photo: http://randomuser.me/g/portraits/men/38.jpg
-  :role: student
-- :name: Mrs. Scottie Gulgowski
-  :email: paula.purdy@robertsreinger.com
+  :role: teacher
+- :name: Conor Grady
+  :email: lucious@nicolas.name
+  :photo: http://randomuser.me/g/portraits/women/13.jpg
+  :role: teacher
+- :name: Briana Larson
+  :email: thelma_moen@cain.org
+  :photo: http://randomuser.me/g/portraits/men/19.jpg
+  :role: teacher
+- :name: Prince Brekke III
+  :email: arch@hoegervolkman.org
+  :photo: http://randomuser.me/g/portraits/men/33.jpg
+  :role: teacher
+- :name: Chelsey Huels
+  :email: jody@armstrong.info
   :photo: http://randomuser.me/g/portraits/women/3.jpg
+  :role: teacher
+- :name: Aidan Mann
+  :email: sylvester@bergnaumzulauf.net
+  :photo: http://randomuser.me/g/portraits/women/46.jpg
   :role: student
-- :name: Paolo Brakus
-  :email: nestor.little@schmeler.com
-  :photo: http://randomuser.me/g/portraits/women/30.jpg
+- :name: Dejuan Kertzmann Jr.
+  :email: lucious_davis@sipes.biz
+  :photo: http://randomuser.me/g/portraits/men/29.jpg
   :role: student
-- :name: Bruce Luettgen
-  :email: celine.emmerich@tremblay.name
-  :photo: http://randomuser.me/g/portraits/men/16.jpg
+- :name: Enrico D'Amore
+  :email: jennie@daniel.net
+  :photo: http://randomuser.me/g/portraits/women/33.jpg
   :role: student
-- :name: Hal Leffler PhD
-  :email: buster@parker.biz
-  :photo: http://randomuser.me/g/portraits/women/14.jpg
-  :role: student
-- :name: Enrico Cole
-  :email: rex@vonrueden.org
-  :photo: http://randomuser.me/g/portraits/women/4.jpg
-  :role: student
-- :name: Miss Karli Cartwright
-  :email: elmer@lakin.biz
-  :photo: http://randomuser.me/g/portraits/women/22.jpg
-  :role: student
-- :name: Leonor Steuber IV
-  :email: alexane_waters@cummingsjenkins.biz
-  :photo: http://randomuser.me/g/portraits/men/6.jpg
-  :role: student
-- :name: Dillon Mayert
-  :email: caandra_breitenberg@mertzturner.org
+- :name: Maye Leuschke
+  :email: maye.turner@schimmel.info
   :photo: http://randomuser.me/g/portraits/men/15.jpg
   :role: student
-- :name: Tiana Stokes
-  :email: julian.ebert@hartmann.name
-  :photo: http://randomuser.me/g/portraits/men/20.jpg
+- :name: Anderson Kiehn
+  :email: electa@hills.biz
+  :photo: http://randomuser.me/g/portraits/men/53.jpg
   :role: student
-- :name: Laurie Murphy
-  :email: cynthia@jakubowski.org
+- :name: Miss Edgardo Borer
+  :email: keyon@hyattruecker.com
   :photo: http://randomuser.me/g/portraits/men/44.jpg
   :role: student
-- :name: Samir Howe DVM
-  :email: florine@mueller.net
-  :photo: http://randomuser.me/g/portraits/women/42.jpg
+- :name: Veda Murphy
+  :email: ines_zieme@spencer.org
+  :photo: http://randomuser.me/g/portraits/women/19.jpg
   :role: student
-- :name: Rosanna Balistreri
-  :email: josefina@medhurstjast.biz
+- :name: Ross Lubowitz
+  :email: pascale@brown.com
+  :photo: http://randomuser.me/g/portraits/men/17.jpg
+  :role: student
+- :name: Gilda Gulgowski V
+  :email: joany@harvey.info
+  :photo: http://randomuser.me/g/portraits/men/28.jpg
+  :role: student
+- :name: Ms. Anjali Huels
+  :email: gerhard@murray.net
+  :photo: http://randomuser.me/g/portraits/women/51.jpg
+  :role: student
+- :name: Willis Schneider IV
+  :email: terrill_gorczany@littlemohr.org
+  :photo: http://randomuser.me/g/portraits/men/15.jpg
+  :role: student
+- :name: Fritz Hilll IV
+  :email: lawson@ryanwolff.net
+  :photo: http://randomuser.me/g/portraits/women/55.jpg
+  :role: student
+- :name: Retta Ryan MD
+  :email: jeika@ortiz.name
+  :photo: http://randomuser.me/g/portraits/women/8.jpg
+  :role: student
+- :name: Ms. Emerson Klein
+  :email: joel@douglas.info
+  :photo: http://randomuser.me/g/portraits/men/19.jpg
+  :role: student
+- :name: Mr. Sofia Quigley
+  :email: johnpaul.koelpin@hansen.net
+  :photo: http://randomuser.me/g/portraits/women/53.jpg
+  :role: student
+- :name: Domenic Hauck
+  :email: marcelle@wilkinson.org
+  :photo: http://randomuser.me/g/portraits/women/41.jpg
+  :role: student
+- :name: Hiram Keeling
+  :email: sam_tremblay@bauch.info
+  :photo: http://randomuser.me/g/portraits/men/4.jpg
+  :role: student
+- :name: Alex Blick
+  :email: micah@dickensmorar.biz
+  :photo: http://randomuser.me/g/portraits/men/33.jpg
+  :role: student
+- :name: Lourdes Nicolas
+  :email: faustino_fritsch@emmerich.com
   :photo: http://randomuser.me/g/portraits/women/6.jpg
   :role: student
-- :name: Ms. Doris Rogahn
-  :email: ocie@aufderharrodriguez.com
-  :photo: http://randomuser.me/g/portraits/women/44.jpg
-  :role: student
-- :name: Celia Vandervort MD
-  :email: lucinda@schmeler.net
-  :photo: http://randomuser.me/g/portraits/women/22.jpg
+- :name: Ms. Alexzander Schroeder
+  :email: janick_christiansen@ruelmarquardt.biz
+  :photo: http://randomuser.me/g/portraits/women/20.jpg
   :role: student
 :enrollments:
-- :user_id: 10
-  :course_id: 2
-- :user_id: 13
-  :course_id: 2
-- :user_id: 24
-  :course_id: 3
-- :user_id: 10
-  :course_id: 3
-- :user_id: 18
-  :course_id: 1
-- :user_id: 22
-  :course_id: 5
-- :user_id: 8
-  :course_id: 5
-- :user_id: 18
+- :user_id: 20
   :course_id: 4
-- :user_id: 8
-  :course_id: 2
-- :user_id: 7
+- :user_id: 20
+  :course_id: 4
+- :user_id: 6
   :course_id: 1
 - :user_id: 12
+  :course_id: 5
+- :user_id: 18
+  :course_id: 2
+- :user_id: 11
   :course_id: 3
-- :user_id: 6
-  :course_id: 4
+- :user_id: 14
+  :course_id: 2
 - :user_id: 25
   :course_id: 1
 - :user_id: 19
   :course_id: 5
-- :user_id: 22
+- :user_id: 24
   :course_id: 3
-- :user_id: 14
+- :user_id: 21
+  :course_id: 2
+- :user_id: 16
+  :course_id: 3
+- :user_id: 11
+  :course_id: 3
+- :user_id: 23
   :course_id: 4
 - :user_id: 16
-  :course_id: 2
-- :user_id: 13
-  :course_id: 2
-- :user_id: 9
-  :course_id: 5
-- :user_id: 17
   :course_id: 4
-- :user_id: 18
-  :course_id: 1
-- :user_id: 21
-  :course_id: 1
-- :user_id: 10
-  :course_id: 2
-- :user_id: 15
-  :course_id: 2
+- :user_id: 6
+  :course_id: 3
+- :user_id: 12
+  :course_id: 3
 - :user_id: 11
   :course_id: 1
+- :user_id: 15
+  :course_id: 1
+- :user_id: 7
+  :course_id: 1
+- :user_id: 18
+  :course_id: 2
+- :user_id: 10
+  :course_id: 3
+- :user_id: 23
+  :course_id: 5
+- :user_id: 12
+  :course_id: 1
+- :user_id: 23
+  :course_id: 3
 :stories:
 - :course_id: 1
   :title: The Tell-Tale Heart
@@ -743,235 +743,2305 @@
 - :sentence_id: 1
   :user_id: 1
   :body: this sentence stinks of stinky shoes
-- :sentence_id: 87
-  :user_id: 22
+- :sentence_id: 24
+  :user_id: 17
   :body: I second this.
-- :sentence_id: 17
-  :user_id: 25
+- :sentence_id: 86
+  :user_id: 14
   :body: The New York School of Poets also included Kenneth Koch, Frank O'Hara, and
     John Ashbery.
-- :sentence_id: 36
-  :user_id: 15
+- :sentence_id: 107
+  :user_id: 20
   :body: These are pretty big names that definitely are still impacting young poets
     today.
-- :sentence_id: 27
-  :user_id: 17
+- :sentence_id: 52
+  :user_id: 15
   :body: Ashbery won a Pulitzer and has, over time, won most of the American poetry
     prizes.
-- :sentence_id: 45
-  :user_id: 11
+- :sentence_id: 63
+  :user_id: 10
   :body: More recently, Stephen Dunn, Louise Gluck, W. D. Snodgrass, are all pretty
     big names.
-- :sentence_id: 56
-  :user_id: 8
+- :sentence_id: 18
+  :user_id: 11
   :body: (And personal favorites of mine.)
-- :sentence_id: 68
-  :user_id: 7
+- :sentence_id: 124
+  :user_id: 11
   :body: They're not as clearly affiliated with a school, but I personally believe
     that we're too close to them to really categorize them.
-- :sentence_id: 132
-  :user_id: 16
+- :sentence_id: 129
+  :user_id: 13
   :body: Dunn and Gluck both won Pulitzers and both books are of course fantastic;
     "Different Hours" for Dunn and "The Wild Iris" for Gluck.
-- :sentence_id: 13
-  :user_id: 11
+- :sentence_id: 74
+  :user_id: 25
   :body: Paul Muldoon and Dana Goia are big right now.
-- :sentence_id: 57
-  :user_id: 14
+- :sentence_id: 15
+  :user_id: 15
   :body: I'm not a personal fan of Goia but both draw heavily on formal styles and
     rhyme.
-- :sentence_id: 62
-  :user_id: 13
+- :sentence_id: 141
+  :user_id: 25
   :body: Slam poetry is of course a big thing now.
-- :sentence_id: 48
-  :user_id: 11
+- :sentence_id: 90
+  :user_id: 24
   :body: I'm not as well-versed there.
-- :sentence_id: 54
-  :user_id: 7
+- :sentence_id: 33
+  :user_id: 15
   :body: Not to pun, or anything...If anything I would tell you to start by looking
     up some Rives videos online.
-- :sentence_id: 14
-  :user_id: 8
+- :sentence_id: 27
+  :user_id: 25
   :body: (Pronounced "reeves.")
-- :sentence_id: 86
-  :user_id: 8
+- :sentence_id: 120
+  :user_id: 12
   :body: I think we're moving towards a lot of multi-culturalism in poetry and using
     poetry to speak to personal stories of race, gender, and sexuality.
-- :sentence_id: 144
-  :user_id: 25
+- :sentence_id: 84
+  :user_id: 18
   :body: Examples of poets who I think do this who are "hot" right now include Terance
     Hayes, whose book Lighthead I think deserved a Pulitzer, Danez Smith (who is hot
     and "up and coming" off the presses right now, edits at Muzzle Magazine, recently
     featured in Poetry magazine as well as others - btw Hayes guest-edited a really
     great issue of Ploughshares) and Tracy K Smith who I do believe recently won a
     Pulitzer.
-- :sentence_id: 125
+- :sentence_id: 89
   :user_id: 17
   :body: Not to say the Pulizter isn't the only poetry prize in the world but I guess
     I do pick up poetry books when I see they've won them.
-- :sentence_id: 52
-  :user_id: 11
+- :sentence_id: 49
+  :user_id: 14
   :body: We're also seeing trauma and war poets.
-- :sentence_id: 96
-  :user_id: 24
+- :sentence_id: 81
+  :user_id: 12
   :body: Bob Hicok taught at VSU (still does) during the school shooting and wrote
     about it a lot in his book "Words for Empty, Words for Full."
-- :sentence_id: 47
-  :user_id: 18
+- :sentence_id: 60
+  :user_id: 19
   :body: Brian Turner writes about being a vet in his two books "Here Bullet" and
     "Phantom Noise."
-- :sentence_id: 133
-  :user_id: 23
+- :sentence_id: 114
+  :user_id: 21
   :body: C. K. Williams is another big name although I lent someone his book and never
     got it back so I can't speak to it so much.
-- :sentence_id: 128
-  :user_id: 10
+- :sentence_id: 47
+  :user_id: 11
   :body: OP, consider that the briefest overview I can give you of the biggest (mostly)
     AMERICAN names in poetry in the past 50 years.
-- :sentence_id: 46
-  :user_id: 14
+- :sentence_id: 141
+  :user_id: 12
   :body: I feel like consuming literary analysis is only possible when the audience
     all agrees to hold certain foundational principles regarding linguistics, aesthetics,
     politics, etc., and what keeps me off /r/books is the absolute hostility towards
     those principles that the average person seems to have.
+- :sentence_id: 49
+  :user_id: 11
+  :body: Even the most evacuated pure New Criticism requires that the reader believes
+    texts are meaningful, and how often do we get the "blue curtains are blue curtains"
+    rant on reddit.
+- :sentence_id: 98
+  :user_id: 18
+  :body: Since literary theory tends to have a fairly open definition of what constitutes
+    a 'text', movies, television shows, and other types of media in general could
+    bring in a bigger audience.
+- :sentence_id: 141
+  :user_id: 8
+  :body: While some may dismiss anything nearing cultural studies, multimodal texts
+    such as films can have just as much depth and possibility of interpretation as
+    literature does.
+- :sentence_id: 42
+  :user_id: 7
+  :body: People have already done this with shows such as Breaking Bad, I'm certain
+    an online journal covering media like that would be popular.
+- :sentence_id: 104
+  :user_id: 23
+  :body: That is an interesting question.
+- :sentence_id: 16
+  :user_id: 6
+  :body: I think its safe to say that what Lord Henry finds alluring in Dorian is
+    physical, or what we would consider to be "outward," appearance.
+- :sentence_id: 130
+  :user_id: 20
+  :body: Harry reminds us early in the book that Dorian has the sort of beauty that
+    need not be explained.
+- :sentence_id: 108
+  :user_id: 13
+  :body: But I think the beauty that Harry are referring to here goes beyond what
+    we might consider to me mere outward, physical pleasantness.
+- :sentence_id: 60
+  :user_id: 15
+  :body: Or, to put it more accurately, that outward, physical pleasantness itself
+    represents the highest form of intellectual, aesthetic, and philosophical experience
+    in his view.
+- :sentence_id: 11
+  :user_id: 25
+  :body: It might be easier to understand this idea if we can cast aside the notion
+    that Henry is simply being vein or shallow.
+- :sentence_id: 34
+  :user_id: 22
+  :body: To Harry, outward appearance is paradoxically dives deepest into the truth
+    of life.
+- :sentence_id: 27
+  :user_id: 9
+  :body: 'As Wilde writes in the Preface to the 1891 edition: "All art is at once
+    surface and symbol.'
+- :sentence_id: 29
+  :user_id: 14
+  :body: Those who go beneath the surface do so at their peril."
+- :sentence_id: 76
+  :user_id: 23
+  :body: 'This is one of the key ideas of late 19th century English Aestheticism of
+    the sort that Walter Pater prescribes in The Renaissance: Studies in Art and Poetry
+    (A book Wilde described as the "golden book") and that is represented in Huysmans''s
+    Au Rebours (The novel that most likely provided the inspiration for Dorian''s
+    "yellow book").'
+- :sentence_id: 122
+  :user_id: 19
+  :body: Wilde is definitely interested in this idea, but it goes back.
+- :sentence_id: 110
+  :user_id: 18
+  :body: 'The man who stands outside of traditional morals is, obviously, important
+    to Nietzsche, but it was also a key problem for the Romantics: see Wordsworth''s
+    The Borderers, Blake''s revolutionary texts, and especially Shelley''s dramas
+    and radical stuff.'
+- :sentence_id: 49
+  :user_id: 7
+  :body: Wilde was obviously very influenced by the Romantics (at least one of Lord
+    Henry's speeches start as quotations from Keats's letters and follows it up with
+    a Wildean epigram; somebody in the novel mentions Wordsworth's "The Idiot Boy")
+    and in Shelley in particular.
+- :sentence_id: 119
+  :user_id: 18
+  :body: So this sentiment could have popped up in any of those places, particularly
+    in something like Shelley's The Cenci or Prometheus Unbound (incidentally, I think
+    Wilde was in the audience for the first stage performance of The Cenci in...like...1886
+    or thereabouts).
+- :sentence_id: 140
+  :user_id: 24
+  :body: So I can't be overly helpful, because I am not aware of any relationship
+    between Hemingway and any actual anarchists, and the only time I can think in
+    his writing that he mentions them are in For Whom The Bell Tolls.
 - :sentence_id: 73
+  :user_id: 12
+  :body: And this probably isn't what you want to hear, but he had a pretty low opinion
+    of them.
+- :sentence_id: 114
+  :user_id: 23
+  :body: It would have been better for the town if they had thrown over twenty or
+    thirty of the drunkards, especially those of the red-and-black scarves, and if
+    we ever have another revolution I believe they should be destroyed at the start.
+- :sentence_id: 136
+  :user_id: 25
+  :body: But then we did not know this.
+- :sentence_id: 110
+  :user_id: 11
+  :body: We know he is referencing anarchists specifically because red and black were
+    the colors of the CNT-AIT, an anarchist group that was organized strongly in Barcelona
+    and Catalonia, but probably less so elsewhere.
+- :sentence_id: 108
+  :user_id: 19
+  :body: Basically his protagonist characters make the argument that the anarchists
+    were a hindrance to the cause of fighting off fascism, which should serve as no
+    surprise, as the ideas behind anarchism don't really lend themselves to well regimented
+    combat units.
+- :sentence_id: 119
+  :user_id: 8
+  :body: In fact, the CNT did not allow anyone who was military, police or an employer
+    be a member, so they probably had a huge handicap when it came down to fighting.
+- :sentence_id: 24
+  :user_id: 23
+  :body: Here is something I found arguing that Hemingway was oversimplifying the
+    situation.
+- :sentence_id: 136
+  :user_id: 7
+  :body: The author argues that the CNT were actually key to early revolutionary success
+    and at least made an effort to be organized.
+- :sentence_id: 45
+  :user_id: 25
+  :body: Maybe Hemingway's quote references only rural anarchists and shouldn't be
+    compared to CNT activity?
+- :sentence_id: 144
+  :user_id: 11
+  :body: Lastly, and I don't mean to be preachy, but regardless of your political
+    views, you are probably not an anarchist, especially if you are pursuing higher
+    education.
+- :sentence_id: 124
+  :user_id: 6
+  :body: Unless you are attending The University of Mogadishu and majoring in preventing
+    the development of a central government, you are probably a capitalist with alternative
+    political views.
+- :sentence_id: 119
+  :user_id: 16
+  :body: In any event, I hope this helped.
+- :sentence_id: 189
+  :user_id: 18
+  :body: I second this.
+- :sentence_id: 299
+  :user_id: 20
+  :body: The New York School of Poets also included Kenneth Koch, Frank O'Hara, and
+    John Ashbery.
+- :sentence_id: 325
+  :user_id: 14
+  :body: These are pretty big names that definitely are still impacting young poets
+    today.
+- :sentence_id: 304
+  :user_id: 19
+  :body: Ashbery won a Pulitzer and has, over time, won most of the American poetry
+    prizes.
+- :sentence_id: 188
+  :user_id: 21
+  :body: More recently, Stephen Dunn, Louise Gluck, W. D. Snodgrass, are all pretty
+    big names.
+- :sentence_id: 237
+  :user_id: 18
+  :body: (And personal favorites of mine.)
+- :sentence_id: 307
+  :user_id: 22
+  :body: They're not as clearly affiliated with a school, but I personally believe
+    that we're too close to them to really categorize them.
+- :sentence_id: 252
+  :user_id: 20
+  :body: Dunn and Gluck both won Pulitzers and both books are of course fantastic;
+    "Different Hours" for Dunn and "The Wild Iris" for Gluck.
+- :sentence_id: 192
+  :user_id: 13
+  :body: Paul Muldoon and Dana Goia are big right now.
+- :sentence_id: 167
+  :user_id: 8
+  :body: I'm not a personal fan of Goia but both draw heavily on formal styles and
+    rhyme.
+- :sentence_id: 211
+  :user_id: 16
+  :body: Slam poetry is of course a big thing now.
+- :sentence_id: 203
+  :user_id: 17
+  :body: I'm not as well-versed there.
+- :sentence_id: 196
+  :user_id: 17
+  :body: Not to pun, or anything...If anything I would tell you to start by looking
+    up some Rives videos online.
+- :sentence_id: 251
+  :user_id: 6
+  :body: (Pronounced "reeves.")
+- :sentence_id: 335
+  :user_id: 14
+  :body: I think we're moving towards a lot of multi-culturalism in poetry and using
+    poetry to speak to personal stories of race, gender, and sexuality.
+- :sentence_id: 341
+  :user_id: 9
+  :body: Examples of poets who I think do this who are "hot" right now include Terance
+    Hayes, whose book Lighthead I think deserved a Pulitzer, Danez Smith (who is hot
+    and "up and coming" off the presses right now, edits at Muzzle Magazine, recently
+    featured in Poetry magazine as well as others - btw Hayes guest-edited a really
+    great issue of Ploughshares) and Tracy K Smith who I do believe recently won a
+    Pulitzer.
+- :sentence_id: 256
+  :user_id: 13
+  :body: Not to say the Pulizter isn't the only poetry prize in the world but I guess
+    I do pick up poetry books when I see they've won them.
+- :sentence_id: 318
+  :user_id: 12
+  :body: We're also seeing trauma and war poets.
+- :sentence_id: 245
+  :user_id: 7
+  :body: Bob Hicok taught at VSU (still does) during the school shooting and wrote
+    about it a lot in his book "Words for Empty, Words for Full."
+- :sentence_id: 275
+  :user_id: 25
+  :body: Brian Turner writes about being a vet in his two books "Here Bullet" and
+    "Phantom Noise."
+- :sentence_id: 247
+  :user_id: 12
+  :body: C. K. Williams is another big name although I lent someone his book and never
+    got it back so I can't speak to it so much.
+- :sentence_id: 330
+  :user_id: 12
+  :body: OP, consider that the briefest overview I can give you of the biggest (mostly)
+    AMERICAN names in poetry in the past 50 years.
+- :sentence_id: 274
+  :user_id: 16
+  :body: I feel like consuming literary analysis is only possible when the audience
+    all agrees to hold certain foundational principles regarding linguistics, aesthetics,
+    politics, etc., and what keeps me off /r/books is the absolute hostility towards
+    those principles that the average person seems to have.
+- :sentence_id: 309
+  :user_id: 19
+  :body: Even the most evacuated pure New Criticism requires that the reader believes
+    texts are meaningful, and how often do we get the "blue curtains are blue curtains"
+    rant on reddit.
+- :sentence_id: 226
+  :user_id: 9
+  :body: Since literary theory tends to have a fairly open definition of what constitutes
+    a 'text', movies, television shows, and other types of media in general could
+    bring in a bigger audience.
+- :sentence_id: 314
+  :user_id: 7
+  :body: While some may dismiss anything nearing cultural studies, multimodal texts
+    such as films can have just as much depth and possibility of interpretation as
+    literature does.
+- :sentence_id: 298
+  :user_id: 18
+  :body: People have already done this with shows such as Breaking Bad, I'm certain
+    an online journal covering media like that would be popular.
+- :sentence_id: 309
+  :user_id: 23
+  :body: That is an interesting question.
+- :sentence_id: 174
+  :user_id: 21
+  :body: I think its safe to say that what Lord Henry finds alluring in Dorian is
+    physical, or what we would consider to be "outward," appearance.
+- :sentence_id: 270
+  :user_id: 21
+  :body: Harry reminds us early in the book that Dorian has the sort of beauty that
+    need not be explained.
+- :sentence_id: 285
+  :user_id: 24
+  :body: But I think the beauty that Harry are referring to here goes beyond what
+    we might consider to me mere outward, physical pleasantness.
+- :sentence_id: 270
+  :user_id: 10
+  :body: Or, to put it more accurately, that outward, physical pleasantness itself
+    represents the highest form of intellectual, aesthetic, and philosophical experience
+    in his view.
+- :sentence_id: 194
+  :user_id: 8
+  :body: It might be easier to understand this idea if we can cast aside the notion
+    that Henry is simply being vein or shallow.
+- :sentence_id: 216
+  :user_id: 12
+  :body: To Harry, outward appearance is paradoxically dives deepest into the truth
+    of life.
+- :sentence_id: 209
+  :user_id: 8
+  :body: 'As Wilde writes in the Preface to the 1891 edition: "All art is at once
+    surface and symbol.'
+- :sentence_id: 340
+  :user_id: 20
+  :body: Those who go beneath the surface do so at their peril."
+- :sentence_id: 250
+  :user_id: 24
+  :body: 'This is one of the key ideas of late 19th century English Aestheticism of
+    the sort that Walter Pater prescribes in The Renaissance: Studies in Art and Poetry
+    (A book Wilde described as the "golden book") and that is represented in Huysmans''s
+    Au Rebours (The novel that most likely provided the inspiration for Dorian''s
+    "yellow book").'
+- :sentence_id: 188
+  :user_id: 15
+  :body: Wilde is definitely interested in this idea, but it goes back.
+- :sentence_id: 234
+  :user_id: 21
+  :body: 'The man who stands outside of traditional morals is, obviously, important
+    to Nietzsche, but it was also a key problem for the Romantics: see Wordsworth''s
+    The Borderers, Blake''s revolutionary texts, and especially Shelley''s dramas
+    and radical stuff.'
+- :sentence_id: 272
+  :user_id: 15
+  :body: Wilde was obviously very influenced by the Romantics (at least one of Lord
+    Henry's speeches start as quotations from Keats's letters and follows it up with
+    a Wildean epigram; somebody in the novel mentions Wordsworth's "The Idiot Boy")
+    and in Shelley in particular.
+- :sentence_id: 229
+  :user_id: 22
+  :body: So this sentiment could have popped up in any of those places, particularly
+    in something like Shelley's The Cenci or Prometheus Unbound (incidentally, I think
+    Wilde was in the audience for the first stage performance of The Cenci in...like...1886
+    or thereabouts).
+- :sentence_id: 283
+  :user_id: 8
+  :body: So I can't be overly helpful, because I am not aware of any relationship
+    between Hemingway and any actual anarchists, and the only time I can think in
+    his writing that he mentions them are in For Whom The Bell Tolls.
+- :sentence_id: 306
+  :user_id: 24
+  :body: And this probably isn't what you want to hear, but he had a pretty low opinion
+    of them.
+- :sentence_id: 221
+  :user_id: 22
+  :body: It would have been better for the town if they had thrown over twenty or
+    thirty of the drunkards, especially those of the red-and-black scarves, and if
+    we ever have another revolution I believe they should be destroyed at the start.
+- :sentence_id: 185
+  :user_id: 16
+  :body: But then we did not know this.
+- :sentence_id: 170
+  :user_id: 7
+  :body: We know he is referencing anarchists specifically because red and black were
+    the colors of the CNT-AIT, an anarchist group that was organized strongly in Barcelona
+    and Catalonia, but probably less so elsewhere.
+- :sentence_id: 300
+  :user_id: 16
+  :body: Basically his protagonist characters make the argument that the anarchists
+    were a hindrance to the cause of fighting off fascism, which should serve as no
+    surprise, as the ideas behind anarchism don't really lend themselves to well regimented
+    combat units.
+- :sentence_id: 210
+  :user_id: 20
+  :body: In fact, the CNT did not allow anyone who was military, police or an employer
+    be a member, so they probably had a huge handicap when it came down to fighting.
+- :sentence_id: 191
+  :user_id: 12
+  :body: Here is something I found arguing that Hemingway was oversimplifying the
+    situation.
+- :sentence_id: 334
+  :user_id: 16
+  :body: The author argues that the CNT were actually key to early revolutionary success
+    and at least made an effort to be organized.
+- :sentence_id: 303
+  :user_id: 17
+  :body: Maybe Hemingway's quote references only rural anarchists and shouldn't be
+    compared to CNT activity?
+- :sentence_id: 335
+  :user_id: 11
+  :body: Lastly, and I don't mean to be preachy, but regardless of your political
+    views, you are probably not an anarchist, especially if you are pursuing higher
+    education.
+- :sentence_id: 165
+  :user_id: 20
+  :body: Unless you are attending The University of Mogadishu and majoring in preventing
+    the development of a central government, you are probably a capitalist with alternative
+    political views.
+- :sentence_id: 214
+  :user_id: 19
+  :body: In any event, I hope this helped.
+- :sentence_id: 365
+  :user_id: 6
+  :body: I second this.
+- :sentence_id: 366
+  :user_id: 9
+  :body: The New York School of Poets also included Kenneth Koch, Frank O'Hara, and
+    John Ashbery.
+- :sentence_id: 373
+  :user_id: 22
+  :body: These are pretty big names that definitely are still impacting young poets
+    today.
+- :sentence_id: 377
+  :user_id: 10
+  :body: Ashbery won a Pulitzer and has, over time, won most of the American poetry
+    prizes.
+- :sentence_id: 365
+  :user_id: 15
+  :body: More recently, Stephen Dunn, Louise Gluck, W. D. Snodgrass, are all pretty
+    big names.
+- :sentence_id: 349
+  :user_id: 18
+  :body: (And personal favorites of mine.)
+- :sentence_id: 357
+  :user_id: 6
+  :body: They're not as clearly affiliated with a school, but I personally believe
+    that we're too close to them to really categorize them.
+- :sentence_id: 378
+  :user_id: 10
+  :body: Dunn and Gluck both won Pulitzers and both books are of course fantastic;
+    "Different Hours" for Dunn and "The Wild Iris" for Gluck.
+- :sentence_id: 349
+  :user_id: 20
+  :body: Paul Muldoon and Dana Goia are big right now.
+- :sentence_id: 366
+  :user_id: 20
+  :body: I'm not a personal fan of Goia but both draw heavily on formal styles and
+    rhyme.
+- :sentence_id: 348
+  :user_id: 24
+  :body: Slam poetry is of course a big thing now.
+- :sentence_id: 380
+  :user_id: 10
+  :body: I'm not as well-versed there.
+- :sentence_id: 363
+  :user_id: 7
+  :body: Not to pun, or anything...If anything I would tell you to start by looking
+    up some Rives videos online.
+- :sentence_id: 355
+  :user_id: 15
+  :body: (Pronounced "reeves.")
+- :sentence_id: 378
+  :user_id: 17
+  :body: I think we're moving towards a lot of multi-culturalism in poetry and using
+    poetry to speak to personal stories of race, gender, and sexuality.
+- :sentence_id: 379
+  :user_id: 21
+  :body: Examples of poets who I think do this who are "hot" right now include Terance
+    Hayes, whose book Lighthead I think deserved a Pulitzer, Danez Smith (who is hot
+    and "up and coming" off the presses right now, edits at Muzzle Magazine, recently
+    featured in Poetry magazine as well as others - btw Hayes guest-edited a really
+    great issue of Ploughshares) and Tracy K Smith who I do believe recently won a
+    Pulitzer.
+- :sentence_id: 356
+  :user_id: 25
+  :body: Not to say the Pulizter isn't the only poetry prize in the world but I guess
+    I do pick up poetry books when I see they've won them.
+- :sentence_id: 347
+  :user_id: 10
+  :body: We're also seeing trauma and war poets.
+- :sentence_id: 371
+  :user_id: 14
+  :body: Bob Hicok taught at VSU (still does) during the school shooting and wrote
+    about it a lot in his book "Words for Empty, Words for Full."
+- :sentence_id: 351
+  :user_id: 13
+  :body: Brian Turner writes about being a vet in his two books "Here Bullet" and
+    "Phantom Noise."
+- :sentence_id: 381
+  :user_id: 6
+  :body: C. K. Williams is another big name although I lent someone his book and never
+    got it back so I can't speak to it so much.
+- :sentence_id: 373
+  :user_id: 10
+  :body: OP, consider that the briefest overview I can give you of the biggest (mostly)
+    AMERICAN names in poetry in the past 50 years.
+- :sentence_id: 365
+  :user_id: 13
+  :body: I feel like consuming literary analysis is only possible when the audience
+    all agrees to hold certain foundational principles regarding linguistics, aesthetics,
+    politics, etc., and what keeps me off /r/books is the absolute hostility towards
+    those principles that the average person seems to have.
+- :sentence_id: 351
   :user_id: 18
   :body: Even the most evacuated pure New Criticism requires that the reader believes
     texts are meaningful, and how often do we get the "blue curtains are blue curtains"
     rant on reddit.
-- :sentence_id: 120
-  :user_id: 7
+- :sentence_id: 380
+  :user_id: 12
   :body: Since literary theory tends to have a fairly open definition of what constitutes
     a 'text', movies, television shows, and other types of media in general could
     bring in a bigger audience.
-- :sentence_id: 89
+- :sentence_id: 372
+  :user_id: 23
+  :body: While some may dismiss anything nearing cultural studies, multimodal texts
+    such as films can have just as much depth and possibility of interpretation as
+    literature does.
+- :sentence_id: 368
+  :user_id: 7
+  :body: People have already done this with shows such as Breaking Bad, I'm certain
+    an online journal covering media like that would be popular.
+- :sentence_id: 353
+  :user_id: 14
+  :body: That is an interesting question.
+- :sentence_id: 356
+  :user_id: 10
+  :body: I think its safe to say that what Lord Henry finds alluring in Dorian is
+    physical, or what we would consider to be "outward," appearance.
+- :sentence_id: 356
+  :user_id: 24
+  :body: Harry reminds us early in the book that Dorian has the sort of beauty that
+    need not be explained.
+- :sentence_id: 362
+  :user_id: 19
+  :body: But I think the beauty that Harry are referring to here goes beyond what
+    we might consider to me mere outward, physical pleasantness.
+- :sentence_id: 368
+  :user_id: 7
+  :body: Or, to put it more accurately, that outward, physical pleasantness itself
+    represents the highest form of intellectual, aesthetic, and philosophical experience
+    in his view.
+- :sentence_id: 370
+  :user_id: 9
+  :body: It might be easier to understand this idea if we can cast aside the notion
+    that Henry is simply being vein or shallow.
+- :sentence_id: 354
+  :user_id: 15
+  :body: To Harry, outward appearance is paradoxically dives deepest into the truth
+    of life.
+- :sentence_id: 373
+  :user_id: 24
+  :body: 'As Wilde writes in the Preface to the 1891 edition: "All art is at once
+    surface and symbol.'
+- :sentence_id: 365
+  :user_id: 9
+  :body: Those who go beneath the surface do so at their peril."
+- :sentence_id: 369
+  :user_id: 6
+  :body: 'This is one of the key ideas of late 19th century English Aestheticism of
+    the sort that Walter Pater prescribes in The Renaissance: Studies in Art and Poetry
+    (A book Wilde described as the "golden book") and that is represented in Huysmans''s
+    Au Rebours (The novel that most likely provided the inspiration for Dorian''s
+    "yellow book").'
+- :sentence_id: 354
+  :user_id: 20
+  :body: Wilde is definitely interested in this idea, but it goes back.
+- :sentence_id: 363
+  :user_id: 21
+  :body: 'The man who stands outside of traditional morals is, obviously, important
+    to Nietzsche, but it was also a key problem for the Romantics: see Wordsworth''s
+    The Borderers, Blake''s revolutionary texts, and especially Shelley''s dramas
+    and radical stuff.'
+- :sentence_id: 359
+  :user_id: 6
+  :body: Wilde was obviously very influenced by the Romantics (at least one of Lord
+    Henry's speeches start as quotations from Keats's letters and follows it up with
+    a Wildean epigram; somebody in the novel mentions Wordsworth's "The Idiot Boy")
+    and in Shelley in particular.
+- :sentence_id: 374
+  :user_id: 25
+  :body: So this sentiment could have popped up in any of those places, particularly
+    in something like Shelley's The Cenci or Prometheus Unbound (incidentally, I think
+    Wilde was in the audience for the first stage performance of The Cenci in...like...1886
+    or thereabouts).
+- :sentence_id: 346
+  :user_id: 17
+  :body: So I can't be overly helpful, because I am not aware of any relationship
+    between Hemingway and any actual anarchists, and the only time I can think in
+    his writing that he mentions them are in For Whom The Bell Tolls.
+- :sentence_id: 361
+  :user_id: 19
+  :body: And this probably isn't what you want to hear, but he had a pretty low opinion
+    of them.
+- :sentence_id: 369
+  :user_id: 12
+  :body: It would have been better for the town if they had thrown over twenty or
+    thirty of the drunkards, especially those of the red-and-black scarves, and if
+    we ever have another revolution I believe they should be destroyed at the start.
+- :sentence_id: 356
+  :user_id: 19
+  :body: But then we did not know this.
+- :sentence_id: 370
+  :user_id: 6
+  :body: We know he is referencing anarchists specifically because red and black were
+    the colors of the CNT-AIT, an anarchist group that was organized strongly in Barcelona
+    and Catalonia, but probably less so elsewhere.
+- :sentence_id: 353
+  :user_id: 7
+  :body: Basically his protagonist characters make the argument that the anarchists
+    were a hindrance to the cause of fighting off fascism, which should serve as no
+    surprise, as the ideas behind anarchism don't really lend themselves to well regimented
+    combat units.
+- :sentence_id: 375
+  :user_id: 21
+  :body: In fact, the CNT did not allow anyone who was military, police or an employer
+    be a member, so they probably had a huge handicap when it came down to fighting.
+- :sentence_id: 352
+  :user_id: 6
+  :body: Here is something I found arguing that Hemingway was oversimplifying the
+    situation.
+- :sentence_id: 374
+  :user_id: 10
+  :body: The author argues that the CNT were actually key to early revolutionary success
+    and at least made an effort to be organized.
+- :sentence_id: 348
+  :user_id: 22
+  :body: Maybe Hemingway's quote references only rural anarchists and shouldn't be
+    compared to CNT activity?
+- :sentence_id: 356
+  :user_id: 6
+  :body: Lastly, and I don't mean to be preachy, but regardless of your political
+    views, you are probably not an anarchist, especially if you are pursuing higher
+    education.
+- :sentence_id: 366
+  :user_id: 10
+  :body: Unless you are attending The University of Mogadishu and majoring in preventing
+    the development of a central government, you are probably a capitalist with alternative
+    political views.
+- :sentence_id: 367
+  :user_id: 25
+  :body: In any event, I hope this helped.
+- :sentence_id: 391
+  :user_id: 10
+  :body: I second this.
+- :sentence_id: 448
+  :user_id: 13
+  :body: The New York School of Poets also included Kenneth Koch, Frank O'Hara, and
+    John Ashbery.
+- :sentence_id: 433
+  :user_id: 11
+  :body: These are pretty big names that definitely are still impacting young poets
+    today.
+- :sentence_id: 497
+  :user_id: 18
+  :body: Ashbery won a Pulitzer and has, over time, won most of the American poetry
+    prizes.
+- :sentence_id: 474
+  :user_id: 25
+  :body: More recently, Stephen Dunn, Louise Gluck, W. D. Snodgrass, are all pretty
+    big names.
+- :sentence_id: 402
+  :user_id: 21
+  :body: (And personal favorites of mine.)
+- :sentence_id: 453
+  :user_id: 18
+  :body: They're not as clearly affiliated with a school, but I personally believe
+    that we're too close to them to really categorize them.
+- :sentence_id: 392
+  :user_id: 20
+  :body: Dunn and Gluck both won Pulitzers and both books are of course fantastic;
+    "Different Hours" for Dunn and "The Wild Iris" for Gluck.
+- :sentence_id: 469
+  :user_id: 7
+  :body: Paul Muldoon and Dana Goia are big right now.
+- :sentence_id: 409
+  :user_id: 10
+  :body: I'm not a personal fan of Goia but both draw heavily on formal styles and
+    rhyme.
+- :sentence_id: 474
+  :user_id: 8
+  :body: Slam poetry is of course a big thing now.
+- :sentence_id: 449
+  :user_id: 15
+  :body: I'm not as well-versed there.
+- :sentence_id: 420
+  :user_id: 16
+  :body: Not to pun, or anything...If anything I would tell you to start by looking
+    up some Rives videos online.
+- :sentence_id: 470
+  :user_id: 7
+  :body: (Pronounced "reeves.")
+- :sentence_id: 444
+  :user_id: 9
+  :body: I think we're moving towards a lot of multi-culturalism in poetry and using
+    poetry to speak to personal stories of race, gender, and sexuality.
+- :sentence_id: 425
+  :user_id: 12
+  :body: Examples of poets who I think do this who are "hot" right now include Terance
+    Hayes, whose book Lighthead I think deserved a Pulitzer, Danez Smith (who is hot
+    and "up and coming" off the presses right now, edits at Muzzle Magazine, recently
+    featured in Poetry magazine as well as others - btw Hayes guest-edited a really
+    great issue of Ploughshares) and Tracy K Smith who I do believe recently won a
+    Pulitzer.
+- :sentence_id: 509
+  :user_id: 9
+  :body: Not to say the Pulizter isn't the only poetry prize in the world but I guess
+    I do pick up poetry books when I see they've won them.
+- :sentence_id: 399
+  :user_id: 13
+  :body: We're also seeing trauma and war poets.
+- :sentence_id: 471
+  :user_id: 21
+  :body: Bob Hicok taught at VSU (still does) during the school shooting and wrote
+    about it a lot in his book "Words for Empty, Words for Full."
+- :sentence_id: 501
+  :user_id: 14
+  :body: Brian Turner writes about being a vet in his two books "Here Bullet" and
+    "Phantom Noise."
+- :sentence_id: 476
+  :user_id: 25
+  :body: C. K. Williams is another big name although I lent someone his book and never
+    got it back so I can't speak to it so much.
+- :sentence_id: 431
+  :user_id: 22
+  :body: OP, consider that the briefest overview I can give you of the biggest (mostly)
+    AMERICAN names in poetry in the past 50 years.
+- :sentence_id: 429
+  :user_id: 7
+  :body: I feel like consuming literary analysis is only possible when the audience
+    all agrees to hold certain foundational principles regarding linguistics, aesthetics,
+    politics, etc., and what keeps me off /r/books is the absolute hostility towards
+    those principles that the average person seems to have.
+- :sentence_id: 388
+  :user_id: 20
+  :body: Even the most evacuated pure New Criticism requires that the reader believes
+    texts are meaningful, and how often do we get the "blue curtains are blue curtains"
+    rant on reddit.
+- :sentence_id: 431
+  :user_id: 24
+  :body: Since literary theory tends to have a fairly open definition of what constitutes
+    a 'text', movies, television shows, and other types of media in general could
+    bring in a bigger audience.
+- :sentence_id: 395
+  :user_id: 9
+  :body: While some may dismiss anything nearing cultural studies, multimodal texts
+    such as films can have just as much depth and possibility of interpretation as
+    literature does.
+- :sentence_id: 403
+  :user_id: 7
+  :body: People have already done this with shows such as Breaking Bad, I'm certain
+    an online journal covering media like that would be popular.
+- :sentence_id: 489
+  :user_id: 19
+  :body: That is an interesting question.
+- :sentence_id: 447
+  :user_id: 7
+  :body: I think its safe to say that what Lord Henry finds alluring in Dorian is
+    physical, or what we would consider to be "outward," appearance.
+- :sentence_id: 502
+  :user_id: 21
+  :body: Harry reminds us early in the book that Dorian has the sort of beauty that
+    need not be explained.
+- :sentence_id: 478
+  :user_id: 9
+  :body: But I think the beauty that Harry are referring to here goes beyond what
+    we might consider to me mere outward, physical pleasantness.
+- :sentence_id: 503
+  :user_id: 20
+  :body: Or, to put it more accurately, that outward, physical pleasantness itself
+    represents the highest form of intellectual, aesthetic, and philosophical experience
+    in his view.
+- :sentence_id: 482
+  :user_id: 15
+  :body: It might be easier to understand this idea if we can cast aside the notion
+    that Henry is simply being vein or shallow.
+- :sentence_id: 505
+  :user_id: 10
+  :body: To Harry, outward appearance is paradoxically dives deepest into the truth
+    of life.
+- :sentence_id: 406
+  :user_id: 23
+  :body: 'As Wilde writes in the Preface to the 1891 edition: "All art is at once
+    surface and symbol.'
+- :sentence_id: 505
+  :user_id: 18
+  :body: Those who go beneath the surface do so at their peril."
+- :sentence_id: 497
+  :user_id: 15
+  :body: 'This is one of the key ideas of late 19th century English Aestheticism of
+    the sort that Walter Pater prescribes in The Renaissance: Studies in Art and Poetry
+    (A book Wilde described as the "golden book") and that is represented in Huysmans''s
+    Au Rebours (The novel that most likely provided the inspiration for Dorian''s
+    "yellow book").'
+- :sentence_id: 407
+  :user_id: 10
+  :body: Wilde is definitely interested in this idea, but it goes back.
+- :sentence_id: 416
+  :user_id: 19
+  :body: 'The man who stands outside of traditional morals is, obviously, important
+    to Nietzsche, but it was also a key problem for the Romantics: see Wordsworth''s
+    The Borderers, Blake''s revolutionary texts, and especially Shelley''s dramas
+    and radical stuff.'
+- :sentence_id: 407
+  :user_id: 11
+  :body: Wilde was obviously very influenced by the Romantics (at least one of Lord
+    Henry's speeches start as quotations from Keats's letters and follows it up with
+    a Wildean epigram; somebody in the novel mentions Wordsworth's "The Idiot Boy")
+    and in Shelley in particular.
+- :sentence_id: 482
+  :user_id: 13
+  :body: So this sentiment could have popped up in any of those places, particularly
+    in something like Shelley's The Cenci or Prometheus Unbound (incidentally, I think
+    Wilde was in the audience for the first stage performance of The Cenci in...like...1886
+    or thereabouts).
+- :sentence_id: 467
+  :user_id: 13
+  :body: So I can't be overly helpful, because I am not aware of any relationship
+    between Hemingway and any actual anarchists, and the only time I can think in
+    his writing that he mentions them are in For Whom The Bell Tolls.
+- :sentence_id: 427
+  :user_id: 25
+  :body: And this probably isn't what you want to hear, but he had a pretty low opinion
+    of them.
+- :sentence_id: 405
+  :user_id: 7
+  :body: It would have been better for the town if they had thrown over twenty or
+    thirty of the drunkards, especially those of the red-and-black scarves, and if
+    we ever have another revolution I believe they should be destroyed at the start.
+- :sentence_id: 485
+  :user_id: 15
+  :body: But then we did not know this.
+- :sentence_id: 416
+  :user_id: 12
+  :body: We know he is referencing anarchists specifically because red and black were
+    the colors of the CNT-AIT, an anarchist group that was organized strongly in Barcelona
+    and Catalonia, but probably less so elsewhere.
+- :sentence_id: 474
+  :user_id: 21
+  :body: Basically his protagonist characters make the argument that the anarchists
+    were a hindrance to the cause of fighting off fascism, which should serve as no
+    surprise, as the ideas behind anarchism don't really lend themselves to well regimented
+    combat units.
+- :sentence_id: 509
+  :user_id: 23
+  :body: In fact, the CNT did not allow anyone who was military, police or an employer
+    be a member, so they probably had a huge handicap when it came down to fighting.
+- :sentence_id: 432
+  :user_id: 17
+  :body: Here is something I found arguing that Hemingway was oversimplifying the
+    situation.
+- :sentence_id: 485
+  :user_id: 14
+  :body: The author argues that the CNT were actually key to early revolutionary success
+    and at least made an effort to be organized.
+- :sentence_id: 432
+  :user_id: 17
+  :body: Maybe Hemingway's quote references only rural anarchists and shouldn't be
+    compared to CNT activity?
+- :sentence_id: 401
+  :user_id: 9
+  :body: Lastly, and I don't mean to be preachy, but regardless of your political
+    views, you are probably not an anarchist, especially if you are pursuing higher
+    education.
+- :sentence_id: 438
+  :user_id: 25
+  :body: Unless you are attending The University of Mogadishu and majoring in preventing
+    the development of a central government, you are probably a capitalist with alternative
+    political views.
+- :sentence_id: 440
+  :user_id: 8
+  :body: In any event, I hope this helped.
+- :sentence_id: 531
+  :user_id: 11
+  :body: I second this.
+- :sentence_id: 593
+  :user_id: 14
+  :body: The New York School of Poets also included Kenneth Koch, Frank O'Hara, and
+    John Ashbery.
+- :sentence_id: 567
+  :user_id: 24
+  :body: These are pretty big names that definitely are still impacting young poets
+    today.
+- :sentence_id: 566
+  :user_id: 12
+  :body: Ashbery won a Pulitzer and has, over time, won most of the American poetry
+    prizes.
+- :sentence_id: 530
+  :user_id: 21
+  :body: More recently, Stephen Dunn, Louise Gluck, W. D. Snodgrass, are all pretty
+    big names.
+- :sentence_id: 536
+  :user_id: 12
+  :body: (And personal favorites of mine.)
+- :sentence_id: 597
+  :user_id: 23
+  :body: They're not as clearly affiliated with a school, but I personally believe
+    that we're too close to them to really categorize them.
+- :sentence_id: 558
+  :user_id: 25
+  :body: Dunn and Gluck both won Pulitzers and both books are of course fantastic;
+    "Different Hours" for Dunn and "The Wild Iris" for Gluck.
+- :sentence_id: 554
+  :user_id: 23
+  :body: Paul Muldoon and Dana Goia are big right now.
+- :sentence_id: 541
+  :user_id: 15
+  :body: I'm not a personal fan of Goia but both draw heavily on formal styles and
+    rhyme.
+- :sentence_id: 604
+  :user_id: 17
+  :body: Slam poetry is of course a big thing now.
+- :sentence_id: 551
+  :user_id: 10
+  :body: I'm not as well-versed there.
+- :sentence_id: 560
+  :user_id: 12
+  :body: Not to pun, or anything...If anything I would tell you to start by looking
+    up some Rives videos online.
+- :sentence_id: 592
+  :user_id: 12
+  :body: (Pronounced "reeves.")
+- :sentence_id: 526
+  :user_id: 7
+  :body: I think we're moving towards a lot of multi-culturalism in poetry and using
+    poetry to speak to personal stories of race, gender, and sexuality.
+- :sentence_id: 530
+  :user_id: 17
+  :body: Examples of poets who I think do this who are "hot" right now include Terance
+    Hayes, whose book Lighthead I think deserved a Pulitzer, Danez Smith (who is hot
+    and "up and coming" off the presses right now, edits at Muzzle Magazine, recently
+    featured in Poetry magazine as well as others - btw Hayes guest-edited a really
+    great issue of Ploughshares) and Tracy K Smith who I do believe recently won a
+    Pulitzer.
+- :sentence_id: 585
+  :user_id: 19
+  :body: Not to say the Pulizter isn't the only poetry prize in the world but I guess
+    I do pick up poetry books when I see they've won them.
+- :sentence_id: 526
+  :user_id: 13
+  :body: We're also seeing trauma and war poets.
+- :sentence_id: 586
+  :user_id: 20
+  :body: Bob Hicok taught at VSU (still does) during the school shooting and wrote
+    about it a lot in his book "Words for Empty, Words for Full."
+- :sentence_id: 583
+  :user_id: 18
+  :body: Brian Turner writes about being a vet in his two books "Here Bullet" and
+    "Phantom Noise."
+- :sentence_id: 580
+  :user_id: 16
+  :body: C. K. Williams is another big name although I lent someone his book and never
+    got it back so I can't speak to it so much.
+- :sentence_id: 534
+  :user_id: 16
+  :body: OP, consider that the briefest overview I can give you of the biggest (mostly)
+    AMERICAN names in poetry in the past 50 years.
+- :sentence_id: 575
+  :user_id: 24
+  :body: I feel like consuming literary analysis is only possible when the audience
+    all agrees to hold certain foundational principles regarding linguistics, aesthetics,
+    politics, etc., and what keeps me off /r/books is the absolute hostility towards
+    those principles that the average person seems to have.
+- :sentence_id: 597
+  :user_id: 14
+  :body: Even the most evacuated pure New Criticism requires that the reader believes
+    texts are meaningful, and how often do we get the "blue curtains are blue curtains"
+    rant on reddit.
+- :sentence_id: 519
+  :user_id: 12
+  :body: Since literary theory tends to have a fairly open definition of what constitutes
+    a 'text', movies, television shows, and other types of media in general could
+    bring in a bigger audience.
+- :sentence_id: 591
   :user_id: 22
   :body: While some may dismiss anything nearing cultural studies, multimodal texts
     such as films can have just as much depth and possibility of interpretation as
     literature does.
-- :sentence_id: 120
-  :user_id: 19
+- :sentence_id: 541
+  :user_id: 21
   :body: People have already done this with shows such as Breaking Bad, I'm certain
     an online journal covering media like that would be popular.
-- :sentence_id: 140
-  :user_id: 21
+- :sentence_id: 525
+  :user_id: 19
   :body: That is an interesting question.
-- :sentence_id: 25
-  :user_id: 15
+- :sentence_id: 573
+  :user_id: 18
   :body: I think its safe to say that what Lord Henry finds alluring in Dorian is
     physical, or what we would consider to be "outward," appearance.
-- :sentence_id: 131
-  :user_id: 22
+- :sentence_id: 587
+  :user_id: 20
   :body: Harry reminds us early in the book that Dorian has the sort of beauty that
     need not be explained.
-- :sentence_id: 52
-  :user_id: 8
+- :sentence_id: 551
+  :user_id: 16
   :body: But I think the beauty that Harry are referring to here goes beyond what
     we might consider to me mere outward, physical pleasantness.
-- :sentence_id: 119
-  :user_id: 21
+- :sentence_id: 520
+  :user_id: 8
   :body: Or, to put it more accurately, that outward, physical pleasantness itself
     represents the highest form of intellectual, aesthetic, and philosophical experience
     in his view.
-- :sentence_id: 143
-  :user_id: 23
+- :sentence_id: 518
+  :user_id: 8
   :body: It might be easier to understand this idea if we can cast aside the notion
     that Henry is simply being vein or shallow.
-- :sentence_id: 102
-  :user_id: 7
+- :sentence_id: 549
+  :user_id: 19
   :body: To Harry, outward appearance is paradoxically dives deepest into the truth
     of life.
-- :sentence_id: 38
-  :user_id: 9
+- :sentence_id: 549
+  :user_id: 13
   :body: 'As Wilde writes in the Preface to the 1891 edition: "All art is at once
     surface and symbol.'
-- :sentence_id: 46
-  :user_id: 17
+- :sentence_id: 551
+  :user_id: 21
   :body: Those who go beneath the surface do so at their peril."
-- :sentence_id: 123
+- :sentence_id: 562
+  :user_id: 19
+  :body: 'This is one of the key ideas of late 19th century English Aestheticism of
+    the sort that Walter Pater prescribes in The Renaissance: Studies in Art and Poetry
+    (A book Wilde described as the "golden book") and that is represented in Huysmans''s
+    Au Rebours (The novel that most likely provided the inspiration for Dorian''s
+    "yellow book").'
+- :sentence_id: 591
+  :user_id: 10
+  :body: Wilde is definitely interested in this idea, but it goes back.
+- :sentence_id: 541
+  :user_id: 7
+  :body: 'The man who stands outside of traditional morals is, obviously, important
+    to Nietzsche, but it was also a key problem for the Romantics: see Wordsworth''s
+    The Borderers, Blake''s revolutionary texts, and especially Shelley''s dramas
+    and radical stuff.'
+- :sentence_id: 527
+  :user_id: 15
+  :body: Wilde was obviously very influenced by the Romantics (at least one of Lord
+    Henry's speeches start as quotations from Keats's letters and follows it up with
+    a Wildean epigram; somebody in the novel mentions Wordsworth's "The Idiot Boy")
+    and in Shelley in particular.
+- :sentence_id: 603
+  :user_id: 23
+  :body: So this sentiment could have popped up in any of those places, particularly
+    in something like Shelley's The Cenci or Prometheus Unbound (incidentally, I think
+    Wilde was in the audience for the first stage performance of The Cenci in...like...1886
+    or thereabouts).
+- :sentence_id: 530
+  :user_id: 19
+  :body: So I can't be overly helpful, because I am not aware of any relationship
+    between Hemingway and any actual anarchists, and the only time I can think in
+    his writing that he mentions them are in For Whom The Bell Tolls.
+- :sentence_id: 517
+  :user_id: 19
+  :body: And this probably isn't what you want to hear, but he had a pretty low opinion
+    of them.
+- :sentence_id: 524
+  :user_id: 9
+  :body: It would have been better for the town if they had thrown over twenty or
+    thirty of the drunkards, especially those of the red-and-black scarves, and if
+    we ever have another revolution I believe they should be destroyed at the start.
+- :sentence_id: 597
+  :user_id: 8
+  :body: But then we did not know this.
+- :sentence_id: 520
+  :user_id: 9
+  :body: We know he is referencing anarchists specifically because red and black were
+    the colors of the CNT-AIT, an anarchist group that was organized strongly in Barcelona
+    and Catalonia, but probably less so elsewhere.
+- :sentence_id: 522
+  :user_id: 9
+  :body: Basically his protagonist characters make the argument that the anarchists
+    were a hindrance to the cause of fighting off fascism, which should serve as no
+    surprise, as the ideas behind anarchism don't really lend themselves to well regimented
+    combat units.
+- :sentence_id: 545
+  :user_id: 11
+  :body: In fact, the CNT did not allow anyone who was military, police or an employer
+    be a member, so they probably had a huge handicap when it came down to fighting.
+- :sentence_id: 528
+  :user_id: 10
+  :body: Here is something I found arguing that Hemingway was oversimplifying the
+    situation.
+- :sentence_id: 524
+  :user_id: 11
+  :body: The author argues that the CNT were actually key to early revolutionary success
+    and at least made an effort to be organized.
+- :sentence_id: 544
+  :user_id: 10
+  :body: Maybe Hemingway's quote references only rural anarchists and shouldn't be
+    compared to CNT activity?
+- :sentence_id: 558
+  :user_id: 17
+  :body: Lastly, and I don't mean to be preachy, but regardless of your political
+    views, you are probably not an anarchist, especially if you are pursuing higher
+    education.
+- :sentence_id: 550
+  :user_id: 9
+  :body: Unless you are attending The University of Mogadishu and majoring in preventing
+    the development of a central government, you are probably a capitalist with alternative
+    political views.
+- :sentence_id: 524
+  :user_id: 6
+  :body: In any event, I hope this helped.
+- :sentence_id: 701
+  :user_id: 22
+  :body: I second this.
+- :sentence_id: 705
+  :user_id: 24
+  :body: The New York School of Poets also included Kenneth Koch, Frank O'Hara, and
+    John Ashbery.
+- :sentence_id: 726
+  :user_id: 13
+  :body: These are pretty big names that definitely are still impacting young poets
+    today.
+- :sentence_id: 697
+  :user_id: 24
+  :body: Ashbery won a Pulitzer and has, over time, won most of the American poetry
+    prizes.
+- :sentence_id: 710
+  :user_id: 7
+  :body: More recently, Stephen Dunn, Louise Gluck, W. D. Snodgrass, are all pretty
+    big names.
+- :sentence_id: 713
+  :user_id: 25
+  :body: (And personal favorites of mine.)
+- :sentence_id: 674
+  :user_id: 23
+  :body: They're not as clearly affiliated with a school, but I personally believe
+    that we're too close to them to really categorize them.
+- :sentence_id: 713
+  :user_id: 18
+  :body: Dunn and Gluck both won Pulitzers and both books are of course fantastic;
+    "Different Hours" for Dunn and "The Wild Iris" for Gluck.
+- :sentence_id: 616
+  :user_id: 22
+  :body: Paul Muldoon and Dana Goia are big right now.
+- :sentence_id: 725
+  :user_id: 16
+  :body: I'm not a personal fan of Goia but both draw heavily on formal styles and
+    rhyme.
+- :sentence_id: 725
+  :user_id: 22
+  :body: Slam poetry is of course a big thing now.
+- :sentence_id: 712
+  :user_id: 16
+  :body: I'm not as well-versed there.
+- :sentence_id: 726
+  :user_id: 13
+  :body: Not to pun, or anything...If anything I would tell you to start by looking
+    up some Rives videos online.
+- :sentence_id: 751
+  :user_id: 9
+  :body: (Pronounced "reeves.")
+- :sentence_id: 741
+  :user_id: 8
+  :body: I think we're moving towards a lot of multi-culturalism in poetry and using
+    poetry to speak to personal stories of race, gender, and sexuality.
+- :sentence_id: 753
+  :user_id: 7
+  :body: Examples of poets who I think do this who are "hot" right now include Terance
+    Hayes, whose book Lighthead I think deserved a Pulitzer, Danez Smith (who is hot
+    and "up and coming" off the presses right now, edits at Muzzle Magazine, recently
+    featured in Poetry magazine as well as others - btw Hayes guest-edited a really
+    great issue of Ploughshares) and Tracy K Smith who I do believe recently won a
+    Pulitzer.
+- :sentence_id: 617
+  :user_id: 13
+  :body: Not to say the Pulizter isn't the only poetry prize in the world but I guess
+    I do pick up poetry books when I see they've won them.
+- :sentence_id: 764
+  :user_id: 8
+  :body: We're also seeing trauma and war poets.
+- :sentence_id: 704
+  :user_id: 23
+  :body: Bob Hicok taught at VSU (still does) during the school shooting and wrote
+    about it a lot in his book "Words for Empty, Words for Full."
+- :sentence_id: 655
+  :user_id: 20
+  :body: Brian Turner writes about being a vet in his two books "Here Bullet" and
+    "Phantom Noise."
+- :sentence_id: 636
+  :user_id: 10
+  :body: C. K. Williams is another big name although I lent someone his book and never
+    got it back so I can't speak to it so much.
+- :sentence_id: 730
+  :user_id: 6
+  :body: OP, consider that the briefest overview I can give you of the biggest (mostly)
+    AMERICAN names in poetry in the past 50 years.
+- :sentence_id: 738
+  :user_id: 6
+  :body: I feel like consuming literary analysis is only possible when the audience
+    all agrees to hold certain foundational principles regarding linguistics, aesthetics,
+    politics, etc., and what keeps me off /r/books is the absolute hostility towards
+    those principles that the average person seems to have.
+- :sentence_id: 714
+  :user_id: 10
+  :body: Even the most evacuated pure New Criticism requires that the reader believes
+    texts are meaningful, and how often do we get the "blue curtains are blue curtains"
+    rant on reddit.
+- :sentence_id: 664
+  :user_id: 23
+  :body: Since literary theory tends to have a fairly open definition of what constitutes
+    a 'text', movies, television shows, and other types of media in general could
+    bring in a bigger audience.
+- :sentence_id: 683
+  :user_id: 23
+  :body: While some may dismiss anything nearing cultural studies, multimodal texts
+    such as films can have just as much depth and possibility of interpretation as
+    literature does.
+- :sentence_id: 717
+  :user_id: 8
+  :body: People have already done this with shows such as Breaking Bad, I'm certain
+    an online journal covering media like that would be popular.
+- :sentence_id: 740
+  :user_id: 22
+  :body: That is an interesting question.
+- :sentence_id: 758
+  :user_id: 9
+  :body: I think its safe to say that what Lord Henry finds alluring in Dorian is
+    physical, or what we would consider to be "outward," appearance.
+- :sentence_id: 671
+  :user_id: 17
+  :body: Harry reminds us early in the book that Dorian has the sort of beauty that
+    need not be explained.
+- :sentence_id: 670
+  :user_id: 7
+  :body: But I think the beauty that Harry are referring to here goes beyond what
+    we might consider to me mere outward, physical pleasantness.
+- :sentence_id: 683
+  :user_id: 9
+  :body: Or, to put it more accurately, that outward, physical pleasantness itself
+    represents the highest form of intellectual, aesthetic, and philosophical experience
+    in his view.
+- :sentence_id: 697
+  :user_id: 7
+  :body: It might be easier to understand this idea if we can cast aside the notion
+    that Henry is simply being vein or shallow.
+- :sentence_id: 662
+  :user_id: 25
+  :body: To Harry, outward appearance is paradoxically dives deepest into the truth
+    of life.
+- :sentence_id: 622
+  :user_id: 22
+  :body: 'As Wilde writes in the Preface to the 1891 edition: "All art is at once
+    surface and symbol.'
+- :sentence_id: 738
+  :user_id: 21
+  :body: Those who go beneath the surface do so at their peril."
+- :sentence_id: 708
   :user_id: 20
   :body: 'This is one of the key ideas of late 19th century English Aestheticism of
     the sort that Walter Pater prescribes in The Renaissance: Studies in Art and Poetry
     (A book Wilde described as the "golden book") and that is represented in Huysmans''s
     Au Rebours (The novel that most likely provided the inspiration for Dorian''s
     "yellow book").'
-- :sentence_id: 31
-  :user_id: 19
+- :sentence_id: 715
+  :user_id: 13
   :body: Wilde is definitely interested in this idea, but it goes back.
-- :sentence_id: 50
-  :user_id: 21
+- :sentence_id: 641
+  :user_id: 17
   :body: 'The man who stands outside of traditional morals is, obviously, important
     to Nietzsche, but it was also a key problem for the Romantics: see Wordsworth''s
     The Borderers, Blake''s revolutionary texts, and especially Shelley''s dramas
     and radical stuff.'
-- :sentence_id: 89
-  :user_id: 22
+- :sentence_id: 623
+  :user_id: 7
   :body: Wilde was obviously very influenced by the Romantics (at least one of Lord
     Henry's speeches start as quotations from Keats's letters and follows it up with
     a Wildean epigram; somebody in the novel mentions Wordsworth's "The Idiot Boy")
     and in Shelley in particular.
-- :sentence_id: 105
-  :user_id: 8
+- :sentence_id: 744
+  :user_id: 16
   :body: So this sentiment could have popped up in any of those places, particularly
     in something like Shelley's The Cenci or Prometheus Unbound (incidentally, I think
     Wilde was in the audience for the first stage performance of The Cenci in...like...1886
     or thereabouts).
-- :sentence_id: 113
-  :user_id: 24
+- :sentence_id: 688
+  :user_id: 10
   :body: So I can't be overly helpful, because I am not aware of any relationship
     between Hemingway and any actual anarchists, and the only time I can think in
     his writing that he mentions them are in For Whom The Bell Tolls.
-- :sentence_id: 136
-  :user_id: 12
+- :sentence_id: 716
+  :user_id: 17
   :body: And this probably isn't what you want to hear, but he had a pretty low opinion
     of them.
-- :sentence_id: 33
-  :user_id: 6
+- :sentence_id: 719
+  :user_id: 19
   :body: It would have been better for the town if they had thrown over twenty or
     thirty of the drunkards, especially those of the red-and-black scarves, and if
     we ever have another revolution I believe they should be destroyed at the start.
-- :sentence_id: 150
-  :user_id: 18
+- :sentence_id: 755
+  :user_id: 19
   :body: But then we did not know this.
-- :sentence_id: 106
-  :user_id: 18
+- :sentence_id: 708
+  :user_id: 9
   :body: We know he is referencing anarchists specifically because red and black were
     the colors of the CNT-AIT, an anarchist group that was organized strongly in Barcelona
     and Catalonia, but probably less so elsewhere.
-- :sentence_id: 51
-  :user_id: 9
+- :sentence_id: 634
+  :user_id: 13
   :body: Basically his protagonist characters make the argument that the anarchists
     were a hindrance to the cause of fighting off fascism, which should serve as no
     surprise, as the ideas behind anarchism don't really lend themselves to well regimented
     combat units.
-- :sentence_id: 112
-  :user_id: 7
+- :sentence_id: 719
+  :user_id: 17
   :body: In fact, the CNT did not allow anyone who was military, police or an employer
     be a member, so they probably had a huge handicap when it came down to fighting.
-- :sentence_id: 69
-  :user_id: 12
+- :sentence_id: 632
+  :user_id: 22
   :body: Here is something I found arguing that Hemingway was oversimplifying the
     situation.
-- :sentence_id: 51
-  :user_id: 19
+- :sentence_id: 654
+  :user_id: 16
   :body: The author argues that the CNT were actually key to early revolutionary success
     and at least made an effort to be organized.
-- :sentence_id: 94
-  :user_id: 7
+- :sentence_id: 686
+  :user_id: 8
   :body: Maybe Hemingway's quote references only rural anarchists and shouldn't be
     compared to CNT activity?
-- :sentence_id: 70
-  :user_id: 14
+- :sentence_id: 754
+  :user_id: 12
   :body: Lastly, and I don't mean to be preachy, but regardless of your political
     views, you are probably not an anarchist, especially if you are pursuing higher
     education.
-- :sentence_id: 52
-  :user_id: 16
+- :sentence_id: 717
+  :user_id: 15
   :body: Unless you are attending The University of Mogadishu and majoring in preventing
     the development of a central government, you are probably a capitalist with alternative
     political views.
-- :sentence_id: 78
+- :sentence_id: 707
+  :user_id: 17
+  :body: In any event, I hope this helped.
+- :sentence_id: 805
+  :user_id: 12
+  :body: I second this.
+- :sentence_id: 848
+  :user_id: 16
+  :body: The New York School of Poets also included Kenneth Koch, Frank O'Hara, and
+    John Ashbery.
+- :sentence_id: 867
+  :user_id: 9
+  :body: These are pretty big names that definitely are still impacting young poets
+    today.
+- :sentence_id: 780
+  :user_id: 25
+  :body: Ashbery won a Pulitzer and has, over time, won most of the American poetry
+    prizes.
+- :sentence_id: 782
+  :user_id: 13
+  :body: More recently, Stephen Dunn, Louise Gluck, W. D. Snodgrass, are all pretty
+    big names.
+- :sentence_id: 832
+  :user_id: 19
+  :body: (And personal favorites of mine.)
+- :sentence_id: 791
+  :user_id: 20
+  :body: They're not as clearly affiliated with a school, but I personally believe
+    that we're too close to them to really categorize them.
+- :sentence_id: 872
+  :user_id: 15
+  :body: Dunn and Gluck both won Pulitzers and both books are of course fantastic;
+    "Different Hours" for Dunn and "The Wild Iris" for Gluck.
+- :sentence_id: 791
+  :user_id: 25
+  :body: Paul Muldoon and Dana Goia are big right now.
+- :sentence_id: 822
+  :user_id: 8
+  :body: I'm not a personal fan of Goia but both draw heavily on formal styles and
+    rhyme.
+- :sentence_id: 886
+  :user_id: 19
+  :body: Slam poetry is of course a big thing now.
+- :sentence_id: 792
+  :user_id: 23
+  :body: I'm not as well-versed there.
+- :sentence_id: 816
+  :user_id: 20
+  :body: Not to pun, or anything...If anything I would tell you to start by looking
+    up some Rives videos online.
+- :sentence_id: 881
+  :user_id: 19
+  :body: (Pronounced "reeves.")
+- :sentence_id: 835
+  :user_id: 10
+  :body: I think we're moving towards a lot of multi-culturalism in poetry and using
+    poetry to speak to personal stories of race, gender, and sexuality.
+- :sentence_id: 888
+  :user_id: 7
+  :body: Examples of poets who I think do this who are "hot" right now include Terance
+    Hayes, whose book Lighthead I think deserved a Pulitzer, Danez Smith (who is hot
+    and "up and coming" off the presses right now, edits at Muzzle Magazine, recently
+    featured in Poetry magazine as well as others - btw Hayes guest-edited a really
+    great issue of Ploughshares) and Tracy K Smith who I do believe recently won a
+    Pulitzer.
+- :sentence_id: 826
+  :user_id: 23
+  :body: Not to say the Pulizter isn't the only poetry prize in the world but I guess
+    I do pick up poetry books when I see they've won them.
+- :sentence_id: 796
+  :user_id: 23
+  :body: We're also seeing trauma and war poets.
+- :sentence_id: 841
+  :user_id: 15
+  :body: Bob Hicok taught at VSU (still does) during the school shooting and wrote
+    about it a lot in his book "Words for Empty, Words for Full."
+- :sentence_id: 861
+  :user_id: 7
+  :body: Brian Turner writes about being a vet in his two books "Here Bullet" and
+    "Phantom Noise."
+- :sentence_id: 870
+  :user_id: 10
+  :body: C. K. Williams is another big name although I lent someone his book and never
+    got it back so I can't speak to it so much.
+- :sentence_id: 827
+  :user_id: 18
+  :body: OP, consider that the briefest overview I can give you of the biggest (mostly)
+    AMERICAN names in poetry in the past 50 years.
+- :sentence_id: 821
+  :user_id: 9
+  :body: I feel like consuming literary analysis is only possible when the audience
+    all agrees to hold certain foundational principles regarding linguistics, aesthetics,
+    politics, etc., and what keeps me off /r/books is the absolute hostility towards
+    those principles that the average person seems to have.
+- :sentence_id: 883
   :user_id: 11
+  :body: Even the most evacuated pure New Criticism requires that the reader believes
+    texts are meaningful, and how often do we get the "blue curtains are blue curtains"
+    rant on reddit.
+- :sentence_id: 817
+  :user_id: 18
+  :body: Since literary theory tends to have a fairly open definition of what constitutes
+    a 'text', movies, television shows, and other types of media in general could
+    bring in a bigger audience.
+- :sentence_id: 829
+  :user_id: 25
+  :body: While some may dismiss anything nearing cultural studies, multimodal texts
+    such as films can have just as much depth and possibility of interpretation as
+    literature does.
+- :sentence_id: 845
+  :user_id: 20
+  :body: People have already done this with shows such as Breaking Bad, I'm certain
+    an online journal covering media like that would be popular.
+- :sentence_id: 835
+  :user_id: 25
+  :body: That is an interesting question.
+- :sentence_id: 845
+  :user_id: 7
+  :body: I think its safe to say that what Lord Henry finds alluring in Dorian is
+    physical, or what we would consider to be "outward," appearance.
+- :sentence_id: 883
+  :user_id: 14
+  :body: Harry reminds us early in the book that Dorian has the sort of beauty that
+    need not be explained.
+- :sentence_id: 818
+  :user_id: 9
+  :body: But I think the beauty that Harry are referring to here goes beyond what
+    we might consider to me mere outward, physical pleasantness.
+- :sentence_id: 819
+  :user_id: 18
+  :body: Or, to put it more accurately, that outward, physical pleasantness itself
+    represents the highest form of intellectual, aesthetic, and philosophical experience
+    in his view.
+- :sentence_id: 863
+  :user_id: 9
+  :body: It might be easier to understand this idea if we can cast aside the notion
+    that Henry is simply being vein or shallow.
+- :sentence_id: 883
+  :user_id: 6
+  :body: To Harry, outward appearance is paradoxically dives deepest into the truth
+    of life.
+- :sentence_id: 850
+  :user_id: 7
+  :body: 'As Wilde writes in the Preface to the 1891 edition: "All art is at once
+    surface and symbol.'
+- :sentence_id: 784
+  :user_id: 21
+  :body: Those who go beneath the surface do so at their peril."
+- :sentence_id: 882
+  :user_id: 25
+  :body: 'This is one of the key ideas of late 19th century English Aestheticism of
+    the sort that Walter Pater prescribes in The Renaissance: Studies in Art and Poetry
+    (A book Wilde described as the "golden book") and that is represented in Huysmans''s
+    Au Rebours (The novel that most likely provided the inspiration for Dorian''s
+    "yellow book").'
+- :sentence_id: 851
+  :user_id: 25
+  :body: Wilde is definitely interested in this idea, but it goes back.
+- :sentence_id: 844
+  :user_id: 13
+  :body: 'The man who stands outside of traditional morals is, obviously, important
+    to Nietzsche, but it was also a key problem for the Romantics: see Wordsworth''s
+    The Borderers, Blake''s revolutionary texts, and especially Shelley''s dramas
+    and radical stuff.'
+- :sentence_id: 815
+  :user_id: 10
+  :body: Wilde was obviously very influenced by the Romantics (at least one of Lord
+    Henry's speeches start as quotations from Keats's letters and follows it up with
+    a Wildean epigram; somebody in the novel mentions Wordsworth's "The Idiot Boy")
+    and in Shelley in particular.
+- :sentence_id: 825
+  :user_id: 12
+  :body: So this sentiment could have popped up in any of those places, particularly
+    in something like Shelley's The Cenci or Prometheus Unbound (incidentally, I think
+    Wilde was in the audience for the first stage performance of The Cenci in...like...1886
+    or thereabouts).
+- :sentence_id: 811
+  :user_id: 13
+  :body: So I can't be overly helpful, because I am not aware of any relationship
+    between Hemingway and any actual anarchists, and the only time I can think in
+    his writing that he mentions them are in For Whom The Bell Tolls.
+- :sentence_id: 864
+  :user_id: 22
+  :body: And this probably isn't what you want to hear, but he had a pretty low opinion
+    of them.
+- :sentence_id: 864
+  :user_id: 13
+  :body: It would have been better for the town if they had thrown over twenty or
+    thirty of the drunkards, especially those of the red-and-black scarves, and if
+    we ever have another revolution I believe they should be destroyed at the start.
+- :sentence_id: 820
+  :user_id: 12
+  :body: But then we did not know this.
+- :sentence_id: 877
+  :user_id: 9
+  :body: We know he is referencing anarchists specifically because red and black were
+    the colors of the CNT-AIT, an anarchist group that was organized strongly in Barcelona
+    and Catalonia, but probably less so elsewhere.
+- :sentence_id: 861
+  :user_id: 8
+  :body: Basically his protagonist characters make the argument that the anarchists
+    were a hindrance to the cause of fighting off fascism, which should serve as no
+    surprise, as the ideas behind anarchism don't really lend themselves to well regimented
+    combat units.
+- :sentence_id: 783
+  :user_id: 11
+  :body: In fact, the CNT did not allow anyone who was military, police or an employer
+    be a member, so they probably had a huge handicap when it came down to fighting.
+- :sentence_id: 887
+  :user_id: 12
+  :body: Here is something I found arguing that Hemingway was oversimplifying the
+    situation.
+- :sentence_id: 827
+  :user_id: 17
+  :body: The author argues that the CNT were actually key to early revolutionary success
+    and at least made an effort to be organized.
+- :sentence_id: 828
+  :user_id: 11
+  :body: Maybe Hemingway's quote references only rural anarchists and shouldn't be
+    compared to CNT activity?
+- :sentence_id: 791
+  :user_id: 22
+  :body: Lastly, and I don't mean to be preachy, but regardless of your political
+    views, you are probably not an anarchist, especially if you are pursuing higher
+    education.
+- :sentence_id: 829
+  :user_id: 22
+  :body: Unless you are attending The University of Mogadishu and majoring in preventing
+    the development of a central government, you are probably a capitalist with alternative
+    political views.
+- :sentence_id: 798
+  :user_id: 6
+  :body: In any event, I hope this helped.
+- :sentence_id: 927
+  :user_id: 12
+  :body: I second this.
+- :sentence_id: 1000
+  :user_id: 12
+  :body: The New York School of Poets also included Kenneth Koch, Frank O'Hara, and
+    John Ashbery.
+- :sentence_id: 965
+  :user_id: 22
+  :body: These are pretty big names that definitely are still impacting young poets
+    today.
+- :sentence_id: 988
+  :user_id: 21
+  :body: Ashbery won a Pulitzer and has, over time, won most of the American poetry
+    prizes.
+- :sentence_id: 944
+  :user_id: 19
+  :body: More recently, Stephen Dunn, Louise Gluck, W. D. Snodgrass, are all pretty
+    big names.
+- :sentence_id: 954
+  :user_id: 10
+  :body: (And personal favorites of mine.)
+- :sentence_id: 958
+  :user_id: 21
+  :body: They're not as clearly affiliated with a school, but I personally believe
+    that we're too close to them to really categorize them.
+- :sentence_id: 973
+  :user_id: 25
+  :body: Dunn and Gluck both won Pulitzers and both books are of course fantastic;
+    "Different Hours" for Dunn and "The Wild Iris" for Gluck.
+- :sentence_id: 911
+  :user_id: 10
+  :body: Paul Muldoon and Dana Goia are big right now.
+- :sentence_id: 961
+  :user_id: 23
+  :body: I'm not a personal fan of Goia but both draw heavily on formal styles and
+    rhyme.
+- :sentence_id: 1000
+  :user_id: 24
+  :body: Slam poetry is of course a big thing now.
+- :sentence_id: 982
+  :user_id: 17
+  :body: I'm not as well-versed there.
+- :sentence_id: 975
+  :user_id: 12
+  :body: Not to pun, or anything...If anything I would tell you to start by looking
+    up some Rives videos online.
+- :sentence_id: 995
+  :user_id: 6
+  :body: (Pronounced "reeves.")
+- :sentence_id: 993
+  :user_id: 22
+  :body: I think we're moving towards a lot of multi-culturalism in poetry and using
+    poetry to speak to personal stories of race, gender, and sexuality.
+- :sentence_id: 910
+  :user_id: 22
+  :body: Examples of poets who I think do this who are "hot" right now include Terance
+    Hayes, whose book Lighthead I think deserved a Pulitzer, Danez Smith (who is hot
+    and "up and coming" off the presses right now, edits at Muzzle Magazine, recently
+    featured in Poetry magazine as well as others - btw Hayes guest-edited a really
+    great issue of Ploughshares) and Tracy K Smith who I do believe recently won a
+    Pulitzer.
+- :sentence_id: 961
+  :user_id: 7
+  :body: Not to say the Pulizter isn't the only poetry prize in the world but I guess
+    I do pick up poetry books when I see they've won them.
+- :sentence_id: 917
+  :user_id: 11
+  :body: We're also seeing trauma and war poets.
+- :sentence_id: 939
+  :user_id: 21
+  :body: Bob Hicok taught at VSU (still does) during the school shooting and wrote
+    about it a lot in his book "Words for Empty, Words for Full."
+- :sentence_id: 895
+  :user_id: 9
+  :body: Brian Turner writes about being a vet in his two books "Here Bullet" and
+    "Phantom Noise."
+- :sentence_id: 942
+  :user_id: 8
+  :body: C. K. Williams is another big name although I lent someone his book and never
+    got it back so I can't speak to it so much.
+- :sentence_id: 980
+  :user_id: 11
+  :body: OP, consider that the briefest overview I can give you of the biggest (mostly)
+    AMERICAN names in poetry in the past 50 years.
+- :sentence_id: 981
+  :user_id: 21
+  :body: I feel like consuming literary analysis is only possible when the audience
+    all agrees to hold certain foundational principles regarding linguistics, aesthetics,
+    politics, etc., and what keeps me off /r/books is the absolute hostility towards
+    those principles that the average person seems to have.
+- :sentence_id: 1010
+  :user_id: 15
+  :body: Even the most evacuated pure New Criticism requires that the reader believes
+    texts are meaningful, and how often do we get the "blue curtains are blue curtains"
+    rant on reddit.
+- :sentence_id: 922
+  :user_id: 20
+  :body: Since literary theory tends to have a fairly open definition of what constitutes
+    a 'text', movies, television shows, and other types of media in general could
+    bring in a bigger audience.
+- :sentence_id: 919
+  :user_id: 9
+  :body: While some may dismiss anything nearing cultural studies, multimodal texts
+    such as films can have just as much depth and possibility of interpretation as
+    literature does.
+- :sentence_id: 986
+  :user_id: 13
+  :body: People have already done this with shows such as Breaking Bad, I'm certain
+    an online journal covering media like that would be popular.
+- :sentence_id: 955
+  :user_id: 17
+  :body: That is an interesting question.
+- :sentence_id: 953
+  :user_id: 9
+  :body: I think its safe to say that what Lord Henry finds alluring in Dorian is
+    physical, or what we would consider to be "outward," appearance.
+- :sentence_id: 975
+  :user_id: 12
+  :body: Harry reminds us early in the book that Dorian has the sort of beauty that
+    need not be explained.
+- :sentence_id: 898
+  :user_id: 8
+  :body: But I think the beauty that Harry are referring to here goes beyond what
+    we might consider to me mere outward, physical pleasantness.
+- :sentence_id: 960
+  :user_id: 10
+  :body: Or, to put it more accurately, that outward, physical pleasantness itself
+    represents the highest form of intellectual, aesthetic, and philosophical experience
+    in his view.
+- :sentence_id: 938
+  :user_id: 19
+  :body: It might be easier to understand this idea if we can cast aside the notion
+    that Henry is simply being vein or shallow.
+- :sentence_id: 956
+  :user_id: 15
+  :body: To Harry, outward appearance is paradoxically dives deepest into the truth
+    of life.
+- :sentence_id: 953
+  :user_id: 14
+  :body: 'As Wilde writes in the Preface to the 1891 edition: "All art is at once
+    surface and symbol.'
+- :sentence_id: 905
+  :user_id: 22
+  :body: Those who go beneath the surface do so at their peril."
+- :sentence_id: 937
+  :user_id: 24
+  :body: 'This is one of the key ideas of late 19th century English Aestheticism of
+    the sort that Walter Pater prescribes in The Renaissance: Studies in Art and Poetry
+    (A book Wilde described as the "golden book") and that is represented in Huysmans''s
+    Au Rebours (The novel that most likely provided the inspiration for Dorian''s
+    "yellow book").'
+- :sentence_id: 1003
+  :user_id: 22
+  :body: Wilde is definitely interested in this idea, but it goes back.
+- :sentence_id: 983
+  :user_id: 11
+  :body: 'The man who stands outside of traditional morals is, obviously, important
+    to Nietzsche, but it was also a key problem for the Romantics: see Wordsworth''s
+    The Borderers, Blake''s revolutionary texts, and especially Shelley''s dramas
+    and radical stuff.'
+- :sentence_id: 953
+  :user_id: 23
+  :body: Wilde was obviously very influenced by the Romantics (at least one of Lord
+    Henry's speeches start as quotations from Keats's letters and follows it up with
+    a Wildean epigram; somebody in the novel mentions Wordsworth's "The Idiot Boy")
+    and in Shelley in particular.
+- :sentence_id: 927
+  :user_id: 13
+  :body: So this sentiment could have popped up in any of those places, particularly
+    in something like Shelley's The Cenci or Prometheus Unbound (incidentally, I think
+    Wilde was in the audience for the first stage performance of The Cenci in...like...1886
+    or thereabouts).
+- :sentence_id: 921
+  :user_id: 9
+  :body: So I can't be overly helpful, because I am not aware of any relationship
+    between Hemingway and any actual anarchists, and the only time I can think in
+    his writing that he mentions them are in For Whom The Bell Tolls.
+- :sentence_id: 971
+  :user_id: 16
+  :body: And this probably isn't what you want to hear, but he had a pretty low opinion
+    of them.
+- :sentence_id: 998
+  :user_id: 23
+  :body: It would have been better for the town if they had thrown over twenty or
+    thirty of the drunkards, especially those of the red-and-black scarves, and if
+    we ever have another revolution I believe they should be destroyed at the start.
+- :sentence_id: 960
+  :user_id: 17
+  :body: But then we did not know this.
+- :sentence_id: 904
+  :user_id: 9
+  :body: We know he is referencing anarchists specifically because red and black were
+    the colors of the CNT-AIT, an anarchist group that was organized strongly in Barcelona
+    and Catalonia, but probably less so elsewhere.
+- :sentence_id: 922
+  :user_id: 14
+  :body: Basically his protagonist characters make the argument that the anarchists
+    were a hindrance to the cause of fighting off fascism, which should serve as no
+    surprise, as the ideas behind anarchism don't really lend themselves to well regimented
+    combat units.
+- :sentence_id: 943
+  :user_id: 24
+  :body: In fact, the CNT did not allow anyone who was military, police or an employer
+    be a member, so they probably had a huge handicap when it came down to fighting.
+- :sentence_id: 940
+  :user_id: 20
+  :body: Here is something I found arguing that Hemingway was oversimplifying the
+    situation.
+- :sentence_id: 969
+  :user_id: 6
+  :body: The author argues that the CNT were actually key to early revolutionary success
+    and at least made an effort to be organized.
+- :sentence_id: 955
+  :user_id: 11
+  :body: Maybe Hemingway's quote references only rural anarchists and shouldn't be
+    compared to CNT activity?
+- :sentence_id: 951
+  :user_id: 21
+  :body: Lastly, and I don't mean to be preachy, but regardless of your political
+    views, you are probably not an anarchist, especially if you are pursuing higher
+    education.
+- :sentence_id: 945
+  :user_id: 7
+  :body: Unless you are attending The University of Mogadishu and majoring in preventing
+    the development of a central government, you are probably a capitalist with alternative
+    political views.
+- :sentence_id: 907
+  :user_id: 20
+  :body: In any event, I hope this helped.
+- :sentence_id: 1042
+  :user_id: 6
+  :body: I second this.
+- :sentence_id: 1091
+  :user_id: 24
+  :body: The New York School of Poets also included Kenneth Koch, Frank O'Hara, and
+    John Ashbery.
+- :sentence_id: 1079
+  :user_id: 10
+  :body: These are pretty big names that definitely are still impacting young poets
+    today.
+- :sentence_id: 1079
+  :user_id: 19
+  :body: Ashbery won a Pulitzer and has, over time, won most of the American poetry
+    prizes.
+- :sentence_id: 1042
+  :user_id: 20
+  :body: More recently, Stephen Dunn, Louise Gluck, W. D. Snodgrass, are all pretty
+    big names.
+- :sentence_id: 1052
+  :user_id: 20
+  :body: (And personal favorites of mine.)
+- :sentence_id: 1112
+  :user_id: 11
+  :body: They're not as clearly affiliated with a school, but I personally believe
+    that we're too close to them to really categorize them.
+- :sentence_id: 1052
+  :user_id: 17
+  :body: Dunn and Gluck both won Pulitzers and both books are of course fantastic;
+    "Different Hours" for Dunn and "The Wild Iris" for Gluck.
+- :sentence_id: 1095
+  :user_id: 22
+  :body: Paul Muldoon and Dana Goia are big right now.
+- :sentence_id: 1102
+  :user_id: 19
+  :body: I'm not a personal fan of Goia but both draw heavily on formal styles and
+    rhyme.
+- :sentence_id: 1086
+  :user_id: 19
+  :body: Slam poetry is of course a big thing now.
+- :sentence_id: 1113
+  :user_id: 23
+  :body: I'm not as well-versed there.
+- :sentence_id: 1024
+  :user_id: 6
+  :body: Not to pun, or anything...If anything I would tell you to start by looking
+    up some Rives videos online.
+- :sentence_id: 1084
+  :user_id: 24
+  :body: (Pronounced "reeves.")
+- :sentence_id: 1022
+  :user_id: 8
+  :body: I think we're moving towards a lot of multi-culturalism in poetry and using
+    poetry to speak to personal stories of race, gender, and sexuality.
+- :sentence_id: 1035
+  :user_id: 21
+  :body: Examples of poets who I think do this who are "hot" right now include Terance
+    Hayes, whose book Lighthead I think deserved a Pulitzer, Danez Smith (who is hot
+    and "up and coming" off the presses right now, edits at Muzzle Magazine, recently
+    featured in Poetry magazine as well as others - btw Hayes guest-edited a really
+    great issue of Ploughshares) and Tracy K Smith who I do believe recently won a
+    Pulitzer.
+- :sentence_id: 1080
+  :user_id: 16
+  :body: Not to say the Pulizter isn't the only poetry prize in the world but I guess
+    I do pick up poetry books when I see they've won them.
+- :sentence_id: 1106
+  :user_id: 22
+  :body: We're also seeing trauma and war poets.
+- :sentence_id: 1038
+  :user_id: 22
+  :body: Bob Hicok taught at VSU (still does) during the school shooting and wrote
+    about it a lot in his book "Words for Empty, Words for Full."
+- :sentence_id: 1077
+  :user_id: 7
+  :body: Brian Turner writes about being a vet in his two books "Here Bullet" and
+    "Phantom Noise."
+- :sentence_id: 1053
+  :user_id: 15
+  :body: C. K. Williams is another big name although I lent someone his book and never
+    got it back so I can't speak to it so much.
+- :sentence_id: 1026
+  :user_id: 25
+  :body: OP, consider that the briefest overview I can give you of the biggest (mostly)
+    AMERICAN names in poetry in the past 50 years.
+- :sentence_id: 1065
+  :user_id: 17
+  :body: I feel like consuming literary analysis is only possible when the audience
+    all agrees to hold certain foundational principles regarding linguistics, aesthetics,
+    politics, etc., and what keeps me off /r/books is the absolute hostility towards
+    those principles that the average person seems to have.
+- :sentence_id: 1086
+  :user_id: 18
+  :body: Even the most evacuated pure New Criticism requires that the reader believes
+    texts are meaningful, and how often do we get the "blue curtains are blue curtains"
+    rant on reddit.
+- :sentence_id: 1082
+  :user_id: 23
+  :body: Since literary theory tends to have a fairly open definition of what constitutes
+    a 'text', movies, television shows, and other types of media in general could
+    bring in a bigger audience.
+- :sentence_id: 1089
+  :user_id: 11
+  :body: While some may dismiss anything nearing cultural studies, multimodal texts
+    such as films can have just as much depth and possibility of interpretation as
+    literature does.
+- :sentence_id: 1063
+  :user_id: 19
+  :body: People have already done this with shows such as Breaking Bad, I'm certain
+    an online journal covering media like that would be popular.
+- :sentence_id: 1022
+  :user_id: 19
+  :body: That is an interesting question.
+- :sentence_id: 1112
+  :user_id: 14
+  :body: I think its safe to say that what Lord Henry finds alluring in Dorian is
+    physical, or what we would consider to be "outward," appearance.
+- :sentence_id: 1073
+  :user_id: 10
+  :body: Harry reminds us early in the book that Dorian has the sort of beauty that
+    need not be explained.
+- :sentence_id: 1106
+  :user_id: 8
+  :body: But I think the beauty that Harry are referring to here goes beyond what
+    we might consider to me mere outward, physical pleasantness.
+- :sentence_id: 1073
+  :user_id: 13
+  :body: Or, to put it more accurately, that outward, physical pleasantness itself
+    represents the highest form of intellectual, aesthetic, and philosophical experience
+    in his view.
+- :sentence_id: 1094
+  :user_id: 10
+  :body: It might be easier to understand this idea if we can cast aside the notion
+    that Henry is simply being vein or shallow.
+- :sentence_id: 1079
+  :user_id: 7
+  :body: To Harry, outward appearance is paradoxically dives deepest into the truth
+    of life.
+- :sentence_id: 1114
+  :user_id: 19
+  :body: 'As Wilde writes in the Preface to the 1891 edition: "All art is at once
+    surface and symbol.'
+- :sentence_id: 1072
+  :user_id: 21
+  :body: Those who go beneath the surface do so at their peril."
+- :sentence_id: 1093
+  :user_id: 21
+  :body: 'This is one of the key ideas of late 19th century English Aestheticism of
+    the sort that Walter Pater prescribes in The Renaissance: Studies in Art and Poetry
+    (A book Wilde described as the "golden book") and that is represented in Huysmans''s
+    Au Rebours (The novel that most likely provided the inspiration for Dorian''s
+    "yellow book").'
+- :sentence_id: 1077
+  :user_id: 16
+  :body: Wilde is definitely interested in this idea, but it goes back.
+- :sentence_id: 1022
+  :user_id: 19
+  :body: 'The man who stands outside of traditional morals is, obviously, important
+    to Nietzsche, but it was also a key problem for the Romantics: see Wordsworth''s
+    The Borderers, Blake''s revolutionary texts, and especially Shelley''s dramas
+    and radical stuff.'
+- :sentence_id: 1032
+  :user_id: 18
+  :body: Wilde was obviously very influenced by the Romantics (at least one of Lord
+    Henry's speeches start as quotations from Keats's letters and follows it up with
+    a Wildean epigram; somebody in the novel mentions Wordsworth's "The Idiot Boy")
+    and in Shelley in particular.
+- :sentence_id: 1088
+  :user_id: 7
+  :body: So this sentiment could have popped up in any of those places, particularly
+    in something like Shelley's The Cenci or Prometheus Unbound (incidentally, I think
+    Wilde was in the audience for the first stage performance of The Cenci in...like...1886
+    or thereabouts).
+- :sentence_id: 1032
+  :user_id: 19
+  :body: So I can't be overly helpful, because I am not aware of any relationship
+    between Hemingway and any actual anarchists, and the only time I can think in
+    his writing that he mentions them are in For Whom The Bell Tolls.
+- :sentence_id: 1089
+  :user_id: 15
+  :body: And this probably isn't what you want to hear, but he had a pretty low opinion
+    of them.
+- :sentence_id: 1077
+  :user_id: 11
+  :body: It would have been better for the town if they had thrown over twenty or
+    thirty of the drunkards, especially those of the red-and-black scarves, and if
+    we ever have another revolution I believe they should be destroyed at the start.
+- :sentence_id: 1058
+  :user_id: 20
+  :body: But then we did not know this.
+- :sentence_id: 1074
+  :user_id: 16
+  :body: We know he is referencing anarchists specifically because red and black were
+    the colors of the CNT-AIT, an anarchist group that was organized strongly in Barcelona
+    and Catalonia, but probably less so elsewhere.
+- :sentence_id: 1061
+  :user_id: 22
+  :body: Basically his protagonist characters make the argument that the anarchists
+    were a hindrance to the cause of fighting off fascism, which should serve as no
+    surprise, as the ideas behind anarchism don't really lend themselves to well regimented
+    combat units.
+- :sentence_id: 1093
+  :user_id: 22
+  :body: In fact, the CNT did not allow anyone who was military, police or an employer
+    be a member, so they probably had a huge handicap when it came down to fighting.
+- :sentence_id: 1102
+  :user_id: 24
+  :body: Here is something I found arguing that Hemingway was oversimplifying the
+    situation.
+- :sentence_id: 1064
+  :user_id: 19
+  :body: The author argues that the CNT were actually key to early revolutionary success
+    and at least made an effort to be organized.
+- :sentence_id: 1034
+  :user_id: 7
+  :body: Maybe Hemingway's quote references only rural anarchists and shouldn't be
+    compared to CNT activity?
+- :sentence_id: 1061
+  :user_id: 22
+  :body: Lastly, and I don't mean to be preachy, but regardless of your political
+    views, you are probably not an anarchist, especially if you are pursuing higher
+    education.
+- :sentence_id: 1057
+  :user_id: 14
+  :body: Unless you are attending The University of Mogadishu and majoring in preventing
+    the development of a central government, you are probably a capitalist with alternative
+    political views.
+- :sentence_id: 1109
+  :user_id: 24
+  :body: In any event, I hope this helped.
+- :sentence_id: 1180
+  :user_id: 11
+  :body: I second this.
+- :sentence_id: 1175
+  :user_id: 21
+  :body: The New York School of Poets also included Kenneth Koch, Frank O'Hara, and
+    John Ashbery.
+- :sentence_id: 1123
+  :user_id: 21
+  :body: These are pretty big names that definitely are still impacting young poets
+    today.
+- :sentence_id: 1195
+  :user_id: 7
+  :body: Ashbery won a Pulitzer and has, over time, won most of the American poetry
+    prizes.
+- :sentence_id: 1141
+  :user_id: 18
+  :body: More recently, Stephen Dunn, Louise Gluck, W. D. Snodgrass, are all pretty
+    big names.
+- :sentence_id: 1168
+  :user_id: 24
+  :body: (And personal favorites of mine.)
+- :sentence_id: 1186
+  :user_id: 11
+  :body: They're not as clearly affiliated with a school, but I personally believe
+    that we're too close to them to really categorize them.
+- :sentence_id: 1174
+  :user_id: 10
+  :body: Dunn and Gluck both won Pulitzers and both books are of course fantastic;
+    "Different Hours" for Dunn and "The Wild Iris" for Gluck.
+- :sentence_id: 1139
+  :user_id: 15
+  :body: Paul Muldoon and Dana Goia are big right now.
+- :sentence_id: 1189
+  :user_id: 8
+  :body: I'm not a personal fan of Goia but both draw heavily on formal styles and
+    rhyme.
+- :sentence_id: 1177
+  :user_id: 24
+  :body: Slam poetry is of course a big thing now.
+- :sentence_id: 1138
+  :user_id: 12
+  :body: I'm not as well-versed there.
+- :sentence_id: 1131
+  :user_id: 14
+  :body: Not to pun, or anything...If anything I would tell you to start by looking
+    up some Rives videos online.
+- :sentence_id: 1207
+  :user_id: 13
+  :body: (Pronounced "reeves.")
+- :sentence_id: 1146
+  :user_id: 20
+  :body: I think we're moving towards a lot of multi-culturalism in poetry and using
+    poetry to speak to personal stories of race, gender, and sexuality.
+- :sentence_id: 1154
+  :user_id: 18
+  :body: Examples of poets who I think do this who are "hot" right now include Terance
+    Hayes, whose book Lighthead I think deserved a Pulitzer, Danez Smith (who is hot
+    and "up and coming" off the presses right now, edits at Muzzle Magazine, recently
+    featured in Poetry magazine as well as others - btw Hayes guest-edited a really
+    great issue of Ploughshares) and Tracy K Smith who I do believe recently won a
+    Pulitzer.
+- :sentence_id: 1138
+  :user_id: 10
+  :body: Not to say the Pulizter isn't the only poetry prize in the world but I guess
+    I do pick up poetry books when I see they've won them.
+- :sentence_id: 1177
+  :user_id: 7
+  :body: We're also seeing trauma and war poets.
+- :sentence_id: 1159
+  :user_id: 10
+  :body: Bob Hicok taught at VSU (still does) during the school shooting and wrote
+    about it a lot in his book "Words for Empty, Words for Full."
+- :sentence_id: 1169
+  :user_id: 20
+  :body: Brian Turner writes about being a vet in his two books "Here Bullet" and
+    "Phantom Noise."
+- :sentence_id: 1200
+  :user_id: 18
+  :body: C. K. Williams is another big name although I lent someone his book and never
+    got it back so I can't speak to it so much.
+- :sentence_id: 1135
+  :user_id: 15
+  :body: OP, consider that the briefest overview I can give you of the biggest (mostly)
+    AMERICAN names in poetry in the past 50 years.
+- :sentence_id: 1168
+  :user_id: 20
+  :body: I feel like consuming literary analysis is only possible when the audience
+    all agrees to hold certain foundational principles regarding linguistics, aesthetics,
+    politics, etc., and what keeps me off /r/books is the absolute hostility towards
+    those principles that the average person seems to have.
+- :sentence_id: 1172
+  :user_id: 22
+  :body: Even the most evacuated pure New Criticism requires that the reader believes
+    texts are meaningful, and how often do we get the "blue curtains are blue curtains"
+    rant on reddit.
+- :sentence_id: 1173
+  :user_id: 21
+  :body: Since literary theory tends to have a fairly open definition of what constitutes
+    a 'text', movies, television shows, and other types of media in general could
+    bring in a bigger audience.
+- :sentence_id: 1156
+  :user_id: 25
+  :body: While some may dismiss anything nearing cultural studies, multimodal texts
+    such as films can have just as much depth and possibility of interpretation as
+    literature does.
+- :sentence_id: 1159
+  :user_id: 11
+  :body: People have already done this with shows such as Breaking Bad, I'm certain
+    an online journal covering media like that would be popular.
+- :sentence_id: 1155
+  :user_id: 13
+  :body: That is an interesting question.
+- :sentence_id: 1195
+  :user_id: 23
+  :body: I think its safe to say that what Lord Henry finds alluring in Dorian is
+    physical, or what we would consider to be "outward," appearance.
+- :sentence_id: 1203
+  :user_id: 24
+  :body: Harry reminds us early in the book that Dorian has the sort of beauty that
+    need not be explained.
+- :sentence_id: 1149
+  :user_id: 18
+  :body: But I think the beauty that Harry are referring to here goes beyond what
+    we might consider to me mere outward, physical pleasantness.
+- :sentence_id: 1122
+  :user_id: 13
+  :body: Or, to put it more accurately, that outward, physical pleasantness itself
+    represents the highest form of intellectual, aesthetic, and philosophical experience
+    in his view.
+- :sentence_id: 1121
+  :user_id: 17
+  :body: It might be easier to understand this idea if we can cast aside the notion
+    that Henry is simply being vein or shallow.
+- :sentence_id: 1138
+  :user_id: 8
+  :body: To Harry, outward appearance is paradoxically dives deepest into the truth
+    of life.
+- :sentence_id: 1155
+  :user_id: 11
+  :body: 'As Wilde writes in the Preface to the 1891 edition: "All art is at once
+    surface and symbol.'
+- :sentence_id: 1149
+  :user_id: 16
+  :body: Those who go beneath the surface do so at their peril."
+- :sentence_id: 1173
+  :user_id: 25
+  :body: 'This is one of the key ideas of late 19th century English Aestheticism of
+    the sort that Walter Pater prescribes in The Renaissance: Studies in Art and Poetry
+    (A book Wilde described as the "golden book") and that is represented in Huysmans''s
+    Au Rebours (The novel that most likely provided the inspiration for Dorian''s
+    "yellow book").'
+- :sentence_id: 1189
+  :user_id: 12
+  :body: Wilde is definitely interested in this idea, but it goes back.
+- :sentence_id: 1197
+  :user_id: 13
+  :body: 'The man who stands outside of traditional morals is, obviously, important
+    to Nietzsche, but it was also a key problem for the Romantics: see Wordsworth''s
+    The Borderers, Blake''s revolutionary texts, and especially Shelley''s dramas
+    and radical stuff.'
+- :sentence_id: 1168
+  :user_id: 24
+  :body: Wilde was obviously very influenced by the Romantics (at least one of Lord
+    Henry's speeches start as quotations from Keats's letters and follows it up with
+    a Wildean epigram; somebody in the novel mentions Wordsworth's "The Idiot Boy")
+    and in Shelley in particular.
+- :sentence_id: 1134
+  :user_id: 20
+  :body: So this sentiment could have popped up in any of those places, particularly
+    in something like Shelley's The Cenci or Prometheus Unbound (incidentally, I think
+    Wilde was in the audience for the first stage performance of The Cenci in...like...1886
+    or thereabouts).
+- :sentence_id: 1167
+  :user_id: 7
+  :body: So I can't be overly helpful, because I am not aware of any relationship
+    between Hemingway and any actual anarchists, and the only time I can think in
+    his writing that he mentions them are in For Whom The Bell Tolls.
+- :sentence_id: 1189
+  :user_id: 20
+  :body: And this probably isn't what you want to hear, but he had a pretty low opinion
+    of them.
+- :sentence_id: 1130
+  :user_id: 23
+  :body: It would have been better for the town if they had thrown over twenty or
+    thirty of the drunkards, especially those of the red-and-black scarves, and if
+    we ever have another revolution I believe they should be destroyed at the start.
+- :sentence_id: 1125
+  :user_id: 21
+  :body: But then we did not know this.
+- :sentence_id: 1201
+  :user_id: 24
+  :body: We know he is referencing anarchists specifically because red and black were
+    the colors of the CNT-AIT, an anarchist group that was organized strongly in Barcelona
+    and Catalonia, but probably less so elsewhere.
+- :sentence_id: 1192
+  :user_id: 22
+  :body: Basically his protagonist characters make the argument that the anarchists
+    were a hindrance to the cause of fighting off fascism, which should serve as no
+    surprise, as the ideas behind anarchism don't really lend themselves to well regimented
+    combat units.
+- :sentence_id: 1187
+  :user_id: 25
+  :body: In fact, the CNT did not allow anyone who was military, police or an employer
+    be a member, so they probably had a huge handicap when it came down to fighting.
+- :sentence_id: 1169
+  :user_id: 25
+  :body: Here is something I found arguing that Hemingway was oversimplifying the
+    situation.
+- :sentence_id: 1197
+  :user_id: 24
+  :body: The author argues that the CNT were actually key to early revolutionary success
+    and at least made an effort to be organized.
+- :sentence_id: 1204
+  :user_id: 10
+  :body: Maybe Hemingway's quote references only rural anarchists and shouldn't be
+    compared to CNT activity?
+- :sentence_id: 1130
+  :user_id: 20
+  :body: Lastly, and I don't mean to be preachy, but regardless of your political
+    views, you are probably not an anarchist, especially if you are pursuing higher
+    education.
+- :sentence_id: 1134
+  :user_id: 25
+  :body: Unless you are attending The University of Mogadishu and majoring in preventing
+    the development of a central government, you are probably a capitalist with alternative
+    political views.
+- :sentence_id: 1132
+  :user_id: 8
   :body: In any event, I hope this helped.
 :courses:
 - :user_id: 1
@@ -989,63 +3059,63 @@
   :noteable_type: Comment
   :noteable_id: 3
   :status: 1
-- :user_id: 5
-  :noteable_id: 13
-  :noteable_type: enrollment
-- :user_id: 1
-  :noteable_id: 2
-  :noteable_type: enrollment
-- :user_id: 3
-  :noteable_id: 19
-  :noteable_type: comment
-- :user_id: 1
-  :noteable_id: 3
-  :noteable_type: comment
 - :user_id: 2
-  :noteable_id: 3
+  :noteable_id: 25
   :noteable_type: comment
-- :user_id: 3
-  :noteable_id: 2
-  :noteable_type: comment
-- :user_id: 1
-  :noteable_id: 3
+- :user_id: 5
+  :noteable_id: 24
+  :noteable_type: enrollment
+- :user_id: 2
+  :noteable_id: 23
+  :noteable_type: enrollment
+- :user_id: 5
+  :noteable_id: 6
   :noteable_type: enrollment
 - :user_id: 3
   :noteable_id: 20
-  :noteable_type: comment
-- :user_id: 4
-  :noteable_id: 12
-  :noteable_type: comment
-- :user_id: 1
-  :noteable_id: 5
   :noteable_type: enrollment
-- :user_id: 2
+- :user_id: 4
   :noteable_id: 2
-  :noteable_type: comment
-- :user_id: 1
-  :noteable_id: 7
-  :noteable_type: comment
+  :noteable_type: enrollment
 - :user_id: 2
-  :noteable_id: 24
+  :noteable_id: 6
   :noteable_type: enrollment
-- :user_id: 4
-  :noteable_id: 19
-  :noteable_type: comment
-- :user_id: 4
-  :noteable_id: 22
+- :user_id: 5
+  :noteable_id: 20
   :noteable_type: enrollment
-- :user_id: 4
-  :noteable_id: 5
-  :noteable_type: comment
-- :user_id: 3
-  :noteable_id: 11
-  :noteable_type: comment
-- :user_id: 3
-  :noteable_id: 8
-  :noteable_type: comment
 - :user_id: 1
-  :noteable_id: 11
-  :noteable_type: enrollment
-- :user_id: 3
+  :noteable_id: 13
+  :noteable_type: comment
+- :user_id: 5
+  :noteable_id: 20
+  :noteable_type: comment
+- :user_id: 5
   :noteable_id: 14
   :noteable_type: comment
+- :user_id: 4
+  :noteable_id: 10
+  :noteable_type: enrollment
+- :user_id: 3
+  :noteable_id: 18
+  :noteable_type: comment
+- :user_id: 3
+  :noteable_id: 11
+  :noteable_type: comment
+- :user_id: 2
+  :noteable_id: 8
+  :noteable_type: enrollment
+- :user_id: 1
+  :noteable_id: 13
+  :noteable_type: enrollment
+- :user_id: 4
+  :noteable_id: 13
+  :noteable_type: enrollment
+- :user_id: 3
+  :noteable_id: 25
+  :noteable_type: enrollment
+- :user_id: 5
+  :noteable_id: 13
+  :noteable_type: enrollment
+- :user_id: 5
+  :noteable_id: 17
+  :noteable_type: enrollment

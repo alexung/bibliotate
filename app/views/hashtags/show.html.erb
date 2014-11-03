@@ -2,7 +2,7 @@
 
 <% @hashtags.each do |tag| %>
 <ul>
-	<li><img class="student_image" src="<%= tag.user.photo %>">
+	<li><img class="student_image img-circle" src="<%= tag.user.photo %>">
 	<%= tag.user.name %> commented on 
 		<%= link_to "#{tag.comment.story.title}", story_path(tag.comment.story) %>
 		 and said: 

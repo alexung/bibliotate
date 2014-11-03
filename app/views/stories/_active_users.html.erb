@@ -1,0 +1,15 @@
+<div data-card="activeusers" data-story="<%=@story.id%>" class="card comment_card" id="active_users_card">
+	<h1>Frequent Contributors:</h1>
+	<ul>
+		<% @story.active_users.each do |user, number| %>
+			<li>
+				<%= link_to user_path(user) do %>
+					<img class="student_image img-circle" src="<%=user.photo%>">
+					 <%= user.name %> 
+        <% end  %>
+				has commented 
+				<%= number %> times
+			</li>
+		<% end %>
+	</ul>
+</div>
